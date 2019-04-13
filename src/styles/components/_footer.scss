@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $primary-color;
+  color: $white-color;
+
+  & h2 {
+    color: $secondary-color;
+  }
+
+  & i {
+    font-size: 2rem;
+    margin: 20px;
+    color: $secondary-color;
+  }
+}

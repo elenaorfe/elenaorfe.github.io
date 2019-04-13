@@ -1,0 +1,14 @@
+/* bootstrap variables & mixins */
+@import '../../node_modules/bootstrap/scss/functions';
+@import '../../node_modules/bootstrap/scss/variables';
+@import '../../node_modules/bootstrap/scss/mixins';
+/* bootstrap-grid 4 */
+@import '../../node_modules/bootstrap/scss/bootstrap-grid';
+
+// Shared style
+@import 'global';
+// Variables
+@import 'variables';
+//Components
+@import './components/header';
+@import './components/footer';
