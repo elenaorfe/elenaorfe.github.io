@@ -7,11 +7,11 @@ class Header extends Component {
             <header className='header'>
                 <div className='container'>
                     <div className="row">
-                        <div className="col-4">
+                        <div className="col-8 col-sm-4">
                             <h1>Elena Ortega</h1>
                             <h2>Frontend Developer</h2>
                         </div>
-                        <div className="col-8">
+                        <div className="col-4 col-sm-8">
                             <img src={icono} />
                         </div>
                     </div>

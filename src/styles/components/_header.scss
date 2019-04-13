@@ -8,6 +8,14 @@
   }
 
   & img {
-    height: 125px;
+    height: 100px;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+  .header {
+    & img {
+      height: 125px;
+    }
   }
 }
