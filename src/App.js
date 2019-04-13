@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-//import './styles/_styles.scss';
+import './styles/_styles.scss';
 
 class App extends Component {
   render() {
