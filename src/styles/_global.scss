@@ -1,8 +1,17 @@
 body {
   font-family: 'Lato', sans-serif;
+  color: $black-color;
 }
 
 h1,
 h2 {
   font-weight: 300;
+}
+
+h3 {
+  font-weight: 400;
+}
+
+.margin-none {
+  margin: 0px!important;
 }

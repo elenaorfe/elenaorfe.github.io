@@ -6,10 +6,11 @@
 @import '../../node_modules/bootstrap/scss/bootstrap-grid';
 @import '../../node_modules/bootstrap/scss/utilities';
 
-// Shared style
-@import 'global';
 // Variables
 @import 'variables';
+// Shared style
+@import 'global';
 //Components
 @import './components/header';
 @import './components/footer';
+@import './components/main';

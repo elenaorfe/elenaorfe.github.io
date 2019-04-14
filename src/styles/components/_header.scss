@@ -3,8 +3,13 @@
     margin-top: 20px;
   }
 
+  & h1 {
+    margin-bottom: 0px;
+  }
+
   & h2 {
     color: $primary-color;
+    margin-top: 0px;
   }
 
   & img {
