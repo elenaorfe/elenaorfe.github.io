@@ -1,12 +1,29 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { addLocaleData, IntlProvider } from 'react-intl';
+import en from 'react-intl/locale-data/en';
+import es from 'react-intl/locale-data/es';
+
+import localeData from './assets/i18n.json';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+addLocaleData([...en, ...es]);
+// Define user's language
+const language = (navigator.languages && navigator.languages[0]) ||
+    navigator.language ||
+    navigator.userLanguage;
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
+// Split locales with a region code
+const languageWithoutRegionCode = language.toLowerCase().split(/[_-]+/)[0];
+
+// Try full locale, fallback to locale without region code, fallback to en
+const messages = localeData[language] || localeData[languageWithoutRegionCode] || localeData.en;
+
+ReactDOM.render(
+    <IntlProvider locale={language} messages={messages}>
+        <App locale={language}/>
+    </IntlProvider>,
+    document.getElementById('root'));
 serviceWorker.unregister();

@@ -1,0 +1,66 @@
+{
+  "en": {
+    "header.name": "Elena Ortega",
+    "header.role": "Frontend developer",
+
+    "main.learning.title": "Learning",
+    "main.learning.description1": "I like to learn and be updated with the latest technologies.",
+    "main.learning.description2": "Nowadays I'm learning and improving my design skills through Sketch and Marvel.",
+    "main.learning.description3": "Also I'm doing an online course related with iOS development.",
+
+    "main.experience.category1.title": "Basics",
+    "main.experience.category1.item1": "HTML",
+    "main.experience.category1.item2": "CSS",
+    "main.experience.category1.item3": "Javascript",
+    "main.experience.category2.title": "Styles",
+    "main.experience.category2.item1": "Sass",
+    "main.experience.category2.item2": "Bootstrap",
+    "main.experience.category2.item3": "Material Design",
+    "main.experience.category2.item4": "Fontawesome",
+    "main.experience.category2.item5": "Responsive Design",
+    "main.experience.category3.title": "Frameworks",
+    "main.experience.category3.item1": "AngularJS",
+    "main.experience.category3.item2": "Angular",
+    "main.experience.category3.item3": "ReactJS",
+    "main.experience.description": "+4 years experience working in different projects",
+    "main.experience.title": "Frontend developer",
+
+    "main.personalprojects.title": "Personal Projects",
+    "main.personalprojects.item1.title": "UX/UI Design and Web development - ",
+    "main.personalprojects.item1.link": "www.amigurum.is",
+    "main.personalprojects.item2.title": "UX/UI Design and iOS development - ",
+    "main.personalprojects.item2.description": "Prototyping of a business app"
+  },
+  "es": {
+    "header.name": "Elena Ortega",
+    "header.role": "Frontend developer",
+
+    "main.learning.title": "Aprendizaje",
+    "main.learning.description1": "Me gusta aprender y estar al día con las últimas tecnologías.",
+    "main.learning.description2": "Actualmente estoy aprendiendo y mejorando mis habilidades de diseño a través de Sketch y Marvel.",
+    "main.learning.description3": "También estoy haciendo un curso online de desarrollo de aplicaciones con iOS.",
+
+    "main.experience.category1.title": "Bases",
+    "main.experience.category1.item1": "HTML",
+    "main.experience.category1.item2": "CSS",
+    "main.experience.category1.item3": "Javascript",
+    "main.experience.category2.title": "Styles",
+    "main.experience.category2.item1": "Sass",
+    "main.experience.category2.item2": "Bootstrap",
+    "main.experience.category2.item3": "Material Design",
+    "main.experience.category2.item4": "Fontawesome",
+    "main.experience.category2.item5": "Responsive Design",
+    "main.experience.category3.title": "Frameworks",
+    "main.experience.category3.item1": "AngularJS",
+    "main.experience.category3.item2": "Angular",
+    "main.experience.category3.item3": "ReactJS",
+    "main.experience.description": "+4 años de experiencia trabajando en diferentes proyectos",
+    "main.experience.title": "Frontend developer",
+
+    "main.personalprojects.title": "Proyectos Personales",
+    "main.personalprojects.item1.title": "Diseño UX/UI y desarrollo web - ",
+    "main.personalprojects.item1.link": "www.amigurum.is",
+    "main.personalprojects.item2.title": "Diseño UX/UI y desarrollo aplicación iOS - ",
+    "main.personalprojects.item2.description": "Prototipado de una app de negocios"
+  }
+}
