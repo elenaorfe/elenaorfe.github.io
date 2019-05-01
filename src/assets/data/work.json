@@ -1,0 +1,135 @@
+{
+    "en-EN": [
+        {
+            "name": "Gofore",
+            "dateStart": "January 2019",
+            "dateEnd": "Now",
+            "projects": [
+                {
+                  "duration": "4 months",
+                  "title": "Digital Signage",
+                  "description": [
+                    "UX and UI design of a information screen for offices",
+                    "Implementation of a ReactJS application",
+                    "Integration with open data exposed in GTFS format",
+                    "Integration with social APIs likeOutlook API, Twitter API y Slack API",
+                    "Set up and deploy of the application"
+                  ],
+                  "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Bitbucket", "Trello", "English"]
+                }
+            ]
+        },
+        {
+          "name": "Accenture",
+          "dateStart": "June 2015",
+          "dateEnd": "December 2018",
+          "projects": [
+              {
+                "duration": "11 months",
+                "title": "Digital Transformation of an Insurance Company",
+                "description": [
+                  "Multicultural project using Agile methodology",
+                  "Estimation of tasks and solutions",
+                  "Frontend lead and web development"
+                ],
+                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
+              },
+              {
+                "duration": "10 months",
+                "title": "Form modeller of Digital Banking",
+                "description": [
+                  "International Agile project",
+                  "Estimation of tasks, modeler and frontend development"
+                  ],
+                "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
+              },
+              {
+                "duration": "11 months",
+                "title": "Credit card portal development",
+                "description": [
+                  "International Agile project for a omnichannel credit card portal creation",
+                  "Estimation of tasks and frontend development"
+                  ],
+                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
+              },
+              {
+                "duration": "11 months",
+                "title": "Different projects",
+                "description": [
+                  "MV* architecture development",
+                  "Social Network integration inside a multichannel platform",
+                  "Backend development implementing the workflow engine Activiti in a Java application"
+                  ],
+                "skills": ["AngularJS", "HTML", "CSS", "Javascript", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
+              }
+          ]
+        }
+    ],
+    "es-ES": [
+        {
+            "name": "Gofore",
+            "dateStart": "Enero 2019",
+            "dateEnd": "Actualidad",
+            "projects": [
+                {
+                  "duration": "4 meses",
+                  "title": "Aplicación Señalización Digital",
+                  "description": [
+                    "Diseño UX y UI de una pantalla de información para oficinas",
+                    "Implementación de una aplicación ReactJS",
+                    "Integración con datos abiertos expuestos en formato GTFS",
+                    "Integración con APIs sociales como Outlook API, Twitter API y Slack API",
+                    "Configuración y despliegue de la aplicación"
+                  ],
+                  "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "Integración API", "Bitbucket", "Trello", "Inglés"]
+                }
+            ]
+        },
+        {
+          "name": "Accenture",
+          "dateStart": "Junio 2015",
+          "dateEnd": "Diciembre 2018",
+          "projects": [
+              {
+                "duration": "11 meses",
+                "title": "Transformación Digital Compañia de Seguros",
+                "description": [
+                  "Proyecto multicultural utilizando metodología Agile",
+                  "Estimación de tareas y propuesta de arquitectura",
+                  "Frontend lead y desarrollo"
+                ],
+                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
+              },
+              {
+                "duration": "10 meses",
+                "title": "Modelado de Formularios para Banca Digital",
+                "description": [
+                  "Proyecto Agile internacional",
+                  "Estimación de tareas, modelado y desarrollo frontend"
+                ],
+                "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
+              },
+              {
+                "duration": "11 meses",
+                "title": "Creación de un portal de tarjetas de crédito",
+                "description": [
+                  "Proyecto Agile internacional para la creación de un portal de tarjetas multicanal",
+                  "Estimación de tareas y desarrollo frontend"
+                  ],
+                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
+              },
+              {
+                "duration": "11 meses",
+                "title": "Diversos proyectos",
+                "description": [
+                  "Desarrollo de una arquitectura MV*",
+                  "Integración de redes sociales en una plataforma multicanal",
+                  "Desarrollo backend implementando el motor de flujo de trabajo Activiti en una applicación Java"
+                  ],
+                "skills": ["AngularJS", "HTML", "CSS", "Javascript", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
+              }
+          ]
+        }
+    ]
+}
+  

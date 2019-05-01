@@ -1,0 +1,127 @@
+{
+    "en-EN": [
+        {
+            "title": "iOS 12 & Swift",
+            "description": "Udemy Online Course",
+            "skills": ["Xcode 10", "Swift 4.2"],
+            "date": "Now"
+        },
+        {
+            "title": "From the idea to the product",
+            "description": "Workshop",
+            "skills": ["AARRR", "Wufoo", "Zapier", "Mailchimp"],
+            "date": "April 2019"
+        },
+        {
+            "title": "Validate an idea. Create an interactive prototype",
+            "description": "Workshop",
+            "skills": ["Design Sprint","Figma"],
+            "date": "April 2019"
+        },
+        {
+            "title": "Angular7+",
+            "description": "Udemy Online Course",
+            "skills": ["Angular 7"],
+            "date": "January 2019"
+        },
+        {
+            "title": "ReactJS",
+            "description": "Udemy Online Course",
+            "skills": ["ReactJS"],
+            "date": "December 2017"
+        },
+        {
+            "title": "Frontend Trainer",
+            "description": "Delivering trainings",
+            "skills": ["AngularJS", "HTML", "Sass"],
+            "date": "July 2017"
+        },
+        {
+            "title": "IoT, Domotics and Smart Cities Master",
+            "description": "Salamanca University",
+            "skills": [],
+            "date": "2016 - 2017"
+        },
+        {
+            "title": "Web development",
+            "description": "Online Course",
+            "skills": ["Javascript", "jQuery","PHP", "MySQL"],
+            "date": "June 2014"
+        },
+        {
+            "title": "Erasmus Program",
+            "description": "Technische Universität Dresde (Germany)",
+            "skills": [],
+            "date": "2013 - 2014"
+        },
+        {
+            "title": "Bachelor Degree in Industrial Engineering",
+            "description": "Malaga University",
+            "skills": [],
+            "date": "2010 - 2015"
+        }
+    ],
+    "es-ES": [
+        {
+            "title": "iOS 12 & Swift",
+            "description": "Udemy Curso Online",
+            "skills": ["Xcode 10", "Swift 4.2"],
+            "date": "Actualidad"
+        },
+        {
+            "title": "De la idea al producto",
+            "description": "Workshop",
+            "skills": ["AARRR", "Wufoo", "Zapier", "Mailchimp"],
+            "date": "Abril 2019"
+        },
+        {
+            "title": "Valida tu idea. Crea un prototipo interactivo",
+            "description": "Workshop",
+            "skills": ["Design Sprint","Figma"],
+            "date": "April 2019"
+        },
+        {
+            "title": "Angular7+",
+            "description": "Udemy Curso Online",
+            "skills": ["Angular 7"],
+            "date": "Enero 2019"
+        },
+        {
+            "title": "ReactJS",
+            "description": "Udemy Curso Online",
+            "skills": ["ReactJS"],
+            "date": "Diciembre 2017"
+        },
+        {
+            "title": "Frontend Trainer",
+            "description": "Impartición de cursos",
+            "skills": ["AngularJS", "HTML", "Sass"],
+            "date": "Julio 2017"
+        },
+        {
+            "title": "Máster en IoT, Domótica y Smart Cities",
+            "description": "Universidad de Salamanca",
+            "skills": [],
+            "date": "2016 - 2017"
+        },
+        {
+            "title": "Desarrollo Web",
+            "description": "Curso Online",
+            "skills": ["Javascript", "jQuery","PHP", "MySQL"],
+            "date": "Junio 2014"
+        },
+        {
+            "title": "Programa Erasmus",
+            "description": "Technische Universität Dresde (Alemania)",
+            "skills": [],
+            "date": "2013 - 2014"
+        },
+        {
+            "title": "Grado en Ingeniería en Tecnologías Industriales",
+            "description": "Universidad de Málaga",
+            "skills": [],
+            "date": "2010 - 2015"
+        }
+    ]
+  }
+  

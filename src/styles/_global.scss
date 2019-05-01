@@ -3,8 +3,7 @@ body {
   color: $black-color;
 }
 
-h1,
-h2 {
+h1,h2,h5 {
   font-weight: 300;
 }
 
@@ -14,4 +13,8 @@ h3 {
 
 .margin-none {
   margin: 0px!important;
+}
+
+.App {
+  position: relative;
 }

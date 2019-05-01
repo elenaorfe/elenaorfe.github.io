@@ -1,0 +1,44 @@
+ul {
+    li {
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        margin-bottom: 0.5rem;
+    }
+
+    &.default,
+    &.bullet {
+        list-style-type: none;
+        padding: 0;
+        margin-top: 0.5rem;
+    }
+
+    &.bullet li{
+        display: inline-block;
+    }
+
+    &.default li:before,
+    &.bullet li:not(:last-child):after {
+        font-family: "Font Awesome 5 Free";
+        font-size: 0.8rem;
+        font-weight: 900;
+        content: "\f068";
+    }
+
+    &.default li:before {
+        margin-right: 0.5rem;
+    }
+
+    &.bullet li:after {
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+
+    &.bullet li:first-child:before {
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f5fc";
+        margin-right: 0.5rem;
+    }
+}

@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
-        <Main />
+        <Main locale={this.props.locale}/>
         <Footer />
       </div>
     );

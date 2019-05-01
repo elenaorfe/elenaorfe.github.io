@@ -1,0 +1,30 @@
+{
+    "en-EN": [
+        {
+            "title": "UX/UI Design and Web development",
+            "description": "Web Page",
+            "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
+            "link": "www.amigurum.is"
+        },
+        {
+            "title": "UX/UI Design and iOS development",
+            "description": "Prototyping of a business app",
+            "skills": ["Sketch", "Marvel", "Swift", "Firebase"],
+            "link": ""
+        }
+    ],
+    "es-ES": [
+        {
+            "title": "Diseño UX/UI y desarrollo web",
+            "description": "Página Web",
+            "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
+            "link": "www.amigurum.is"
+        },
+        {
+            "title": "Diseño UX/UI y desarrollo aplicación iOS",
+            "description": "Prototipado de una app de negocios",
+            "skills": ["Sketch", "Marvel", "Swift", "Firebase"],
+            "link": ""
+        }
+    ]
+}
