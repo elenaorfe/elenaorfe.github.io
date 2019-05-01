@@ -6,7 +6,7 @@ import List from './List.js';
 class Courses extends Component {
     getClassNameCourseContainer(length, index) {
         // Add 'separator' class if it's not the latest element
-        return (length > index) ? 'course container separator' : 'course container';
+        return (length > index) ? 'course container separator pl-xs-0' : 'course container pl-xs-0';
     }
 
     renderCourses() {

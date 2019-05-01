@@ -8,7 +8,7 @@ class PersonalProjects extends Component {
     renderPersonalProjects() {
         return personalProjectsData[this.props.locale].map(project => {
             return (
-                <div className='project container'>
+                <div className='personal project container ml-xs-0'>
                     <div className='title'>
                         <h4 className='d-inline'>{project.title} </h4> 
                         <p className='subtitle d-inline'>| {project.description}</p>

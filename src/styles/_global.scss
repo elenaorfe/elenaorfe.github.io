@@ -18,3 +18,14 @@ h3 {
 .App {
   position: relative;
 }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .ml-xs-0 {
+    margin-left: 0px!important;
+  }
+
+  .pl-xs-0 {
+    padding-left: 0px;
+  }
+}

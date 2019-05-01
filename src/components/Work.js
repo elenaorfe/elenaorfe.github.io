@@ -6,7 +6,7 @@ import List from './List.js';
 class Work extends Component {
     getClassNameProjectContainer(length, index) {
         // Add 'separator' class if it's not the latest element
-        return (length > index) ? 'project container separator' : 'project container';
+        return (length > index) ? 'project container separator ml-xs-0' : 'project container ml-xs-0';
     }
 
     renderCompanyProjects(projectList) {
@@ -25,7 +25,7 @@ class Work extends Component {
     renderCompanyExperience() {
         return workData[this.props.locale].map(company => {
             return (
-                <div className='company container'>
+                <div className='company container pl-xs-0'>
                     <div className='title'>
                         <h4 className='d-inline'>{company.name} </h4> 
                         <p className='subtitle d-inline'>| {company.dateStart} - {company.dateEnd}</p>
