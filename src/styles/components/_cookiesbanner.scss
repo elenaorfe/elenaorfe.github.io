@@ -1,0 +1,43 @@
+.cookiesbanner {
+    opacity: 1;
+    text-align: center;
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0px;
+
+    & .inner {
+        display: inline-block;
+        width: 100%;
+        margin: auto;
+        padding: 5px;
+        background-color: #f6f6f6;
+        border: 0px solid #eeeeee;
+    }
+
+    & div,
+    & span {
+        font-size: 12px;
+    }
+
+    & button {
+        border: none;
+        background-color: transparent;
+    }
+
+    & button:focus{
+        outline: none;
+    }
+
+    & button:hover,
+    & a:hover {
+        color: $primary-color;
+    }
+
+    & a {
+        text-decoration: none;
+        color: $black-color;
+    }
+}
