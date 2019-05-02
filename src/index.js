@@ -8,7 +8,6 @@ import localeData from './assets/i18n.json';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Cookies from './components/pages/Cookies.js';
 
 addLocaleData([...en, ...es]);
 // Define user's language
@@ -21,13 +20,10 @@ const languageWithoutRegionCode = language.toLowerCase().split(/[_-]+/)[0];
 
 // Try full locale, fallback to locale without region code, fallback to en
 const messages = localeData[language] || localeData[languageWithoutRegionCode] || localeData.en;
-const routing = (
-    <IntlProvider locale={language} messages={messages}>
-        <App locale={language} />
-    </IntlProvider>
-)
 
 ReactDOM.render(
-    routing,
+    <IntlProvider locale={language} messages={messages}>
+        <App locale={language} />
+    </IntlProvider>,
     document.getElementById('root'));
 serviceWorker.unregister();

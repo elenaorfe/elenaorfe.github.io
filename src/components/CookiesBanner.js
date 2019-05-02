@@ -32,8 +32,11 @@ class CookiesBanner extends Component {
                 <div className='cookiesbanner'>
                     <div className='inner'>
                         <div className='align-tr'><button onClick={this.hideCookiesBanner}>x</button></div>
-                        <FormattedMessage id="cookierbanner.text"/>
-                        <a onClick={this.showCookiesPage} target='_blank'><FormattedMessage id="cookierbanner.link"/></a>
+                        <FormattedMessage id='cookierbanner.text'/>
+                        <button className='padding-none' 
+                                onClick={this.showCookiesPage} 
+                                target='_blank'><FormattedMessage 
+                                id="cookierbanner.link"/></button>
                     </div>
                 </div>
             );

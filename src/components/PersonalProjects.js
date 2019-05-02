@@ -6,9 +6,9 @@ import List from './List.js';
 
 class PersonalProjects extends Component {
     renderPersonalProjects() {
-        return personalProjectsData[this.props.locale].map(project => {
+        return personalProjectsData[this.props.locale].map((project,index) => {
             return (
-                <div className='personal project container ml-xs-0'>
+                <div className='personal project container ml-xs-0' key={`personal-project-${index}`}>
                     <div className='title'>
                         <h4 className='d-inline'>{project.title} </h4> 
                         <p className='subtitle d-inline'>| {project.description}</p>
@@ -23,7 +23,7 @@ class PersonalProjects extends Component {
         return (
             <div className='box'>
                 <div className='text-center'>
-                    <h3><FormattedMessage id="main.personalprojects.title"/></h3>
+                    <h3><FormattedMessage id='main.personalprojects.title'/></h3>
                 </div>
                 {this.renderPersonalProjects()}
             </div>

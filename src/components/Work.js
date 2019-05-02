@@ -12,7 +12,7 @@ class Work extends Component {
     renderCompanyProjects(projectList) {
         return projectList.map((project,index) => {
             return(
-                <div className={this.getClassNameProjectContainer(projectList.length, index + 1)}>
+                <div className={this.getClassNameProjectContainer(projectList.length, index + 1)} key={`project-${index}`}>
                     <p className='d-inline'>{project.title} </p> 
                     <p className='subtitle d-inline'>| {project.duration}</p>
                     <List items={project.description} type='default'/>
@@ -23,9 +23,9 @@ class Work extends Component {
     }
 
     renderCompanyExperience() {
-        return workData[this.props.locale].map(company => {
+        return workData[this.props.locale].map((company, index) => {
             return (
-                <div className='company container pl-xs-0'>
+                <div className='company container pl-xs-0' key={`company-${index}`}>
                     <div className='title'>
                         <h4 className='d-inline'>{company.name} </h4> 
                         <p className='subtitle d-inline'>| {company.dateStart} - {company.dateEnd}</p>
@@ -40,7 +40,7 @@ class Work extends Component {
         return (
             <div className='box'>
                 <div className='text-center'>
-                    <h3><FormattedMessage id="main.experience.title"/></h3>
+                    <h3><FormattedMessage id='main.experience.title'/></h3>
                 </div>
                 {this.renderCompanyExperience()}
             </div>

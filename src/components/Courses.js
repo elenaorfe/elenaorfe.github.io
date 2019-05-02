@@ -12,7 +12,7 @@ class Courses extends Component {
     renderCourses() {
         return coursesData[this.props.locale].map((course,index) => {
             return (
-                <div className={this.getClassNameCourseContainer(coursesData[this.props.locale].length, index + 1)}>
+                <div className={this.getClassNameCourseContainer(coursesData[this.props.locale].length, index + 1)} key={`course-${index}`}>
                     <div className='title'>
                         <h4 className='d-inline'>{course.title} </h4> 
                         <p className='subtitle d-inline'> - {course.description} | {course.date}</p>
@@ -27,7 +27,7 @@ class Courses extends Component {
         return (
             <div className='box'>
                 <div className='text-center'>
-                    <h3><FormattedMessage id="main.learning.title"/></h3>
+                    <h3><FormattedMessage id='main.learning.title'/></h3>
                 </div>
                 {this.renderCourses()}
             </div>
