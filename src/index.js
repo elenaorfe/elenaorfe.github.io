@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Route, Link, BrowserRouter as Router } from 'react-router-dom'
 import { addLocaleData, IntlProvider } from 'react-intl';
 import en from 'react-intl/locale-data/en';
 import es from 'react-intl/locale-data/es';
@@ -24,10 +23,7 @@ const languageWithoutRegionCode = language.toLowerCase().split(/[_-]+/)[0];
 const messages = localeData[language] || localeData[languageWithoutRegionCode] || localeData.en;
 const routing = (
     <IntlProvider locale={language} messages={messages}>
-        <Router>
-            <Route exact path='/' render={(props) => <App {...props} locale={language} />} />
-            <Route exact path='/cookies' render={(props) => <Cookies {...props} locale={language} />} />
-        </Router>
+        <App locale={language} />
     </IntlProvider>
 )
 
