@@ -5,7 +5,7 @@ class Cookies extends Component {
   render() {
     return (
       <div className='container'>
-        <h1><FormattedMessage id="cookierbanner.title"/></h1>
+        <h1 className='font-weight-light'><FormattedMessage id="cookierbanner.title"/></h1>
         <p><FormattedMessage id="cookierbanner.text1"/></p>
         <p><FormattedMessage id="cookierbanner.text2"/></p>
         <p><FormattedMessage id="cookierbanner.text.type"/></p>

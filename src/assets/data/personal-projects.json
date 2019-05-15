@@ -2,29 +2,39 @@
     "en-EN": [
         {
             "title": "UX/UI Design and Web development",
-            "description": "Web Page",
+            "description": "Web Page | 2018",
             "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
-            "link": "www.amigurum.is"
+            "link": "https://www.amigurum.is"
+        },
+        {
+            "title": "UX/UI Design and Web development",
+            "description": "Portfolio | 2019",
+            "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages"],
+            "link": "https://elenaorfe.github.io/portfolio/"
         },
         {
             "title": "UX/UI Design and iOS development",
-            "description": "Prototyping of a business app",
-            "skills": ["Sketch", "Marvel", "Swift", "Firebase"],
-            "link": ""
+            "description": "Prototyping of a business app | In progress",
+            "skills": ["Sketch", "Marvel", "Swift", "Firebase"]
         }
     ],
     "es-ES": [
         {
             "title": "Diseño UX/UI y desarrollo web",
-            "description": "Página Web",
+            "description": "Página Web | 2018",
             "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
             "link": "www.amigurum.is"
         },
         {
+            "title": "UX/UI Design and Web development",
+            "description": "Portfolio | 2019",
+            "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages"],
+            "link": "https://elenaorfe.github.io/portfolio/"
+        },
+        {
             "title": "Diseño UX/UI y desarrollo aplicación iOS",
-            "description": "Prototipado de una app de negocios",
-            "skills": ["Sketch", "Marvel", "Swift", "Firebase"],
-            "link": ""
+            "description": "Prototipado de una app de negocios | En progreso",
+            "skills": ["Sketch", "Marvel", "Swift", "Firebase"]
         }
     ]
 }
