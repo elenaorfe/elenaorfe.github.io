@@ -1,12 +1,17 @@
 import React, { Component } from 'react';
-import {FormattedMessage} from 'react-intl';
-import profile from '../../assets/profile.png'; 
-import aboutData from '../../assets/data/about.json';
+import { FormattedMessage } from 'react-intl';
+
 import Button from '../atoms/Button';
+import aboutData from '../../assets/data/about.json';
+import profile from '../../assets/profile.png';
+import CV_EN from '../../assets/CV_ElenaOrtegaFernandez_EN.pdf';
+import CV_ES from '../../assets/CV_ElenaOrtegaFernandez_ES.pdf';
 
 class About extends Component {
 
     render() {
+        let file = this.props.locale === 'es-ES' ? CV_ES : CV_EN;
+
         return (
             <div id="about">
                 <h6 className='text-uppercase'><FormattedMessage id='about.title'/></h6>
@@ -24,7 +29,7 @@ class About extends Component {
                     <p><FormattedMessage id={aboutData[this.props.locale].description3}/></p>
                 </div>
                 <div className='text-center'>
-                    <Button text={<FormattedMessage id='about.btn.download'/>} type='btn-primary'/> 
+                    <Button text={<FormattedMessage id='about.btn.download'/>} type='btn-primary' file={file}/>
                 </div>
             </div>
         );
