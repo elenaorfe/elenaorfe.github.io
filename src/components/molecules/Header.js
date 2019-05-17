@@ -12,7 +12,7 @@ class Header extends Component {
                             <h1 className='font-weight-light'><FormattedMessage id='header.name'/></h1>
                             <h2 className='font-weight-light'><FormattedMessage id='header.role'/></h2>
                         </div>
-                        <div className='col'>
+                        <div className='col pr-0'>
                             <Navbar />
                         </div>
                     </div>

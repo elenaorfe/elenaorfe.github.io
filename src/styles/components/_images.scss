@@ -1,7 +1,7 @@
 .avatar {
     vertical-align: middle;
-    width: 150px;
-    height: 150px;
+    width: 15%;
+    height: 15%;
     border-radius: 50%;
 }
 
@@ -22,3 +22,10 @@
     }
 }
 
+/* Smartphones (portrait and landscape) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .avatar {
+        width: 25%;
+        height: 25%;
+    }
+}
