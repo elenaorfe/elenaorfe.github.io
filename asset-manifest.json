@@ -1,5 +1,5 @@
 {
-  "main.css": "/portfolio/static/css/main.23d4606c.chunk.css",
+  "main.css": "/portfolio/static/css/main.083fc45f.chunk.css",
   "main.js": "/portfolio/static/js/main.b074b826.chunk.js",
   "main.js.map": "/portfolio/static/js/main.b074b826.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
@@ -7,9 +7,9 @@
   "static/js/2.c47fad06.chunk.js": "/portfolio/static/js/2.c47fad06.chunk.js",
   "static/js/2.c47fad06.chunk.js.map": "/portfolio/static/js/2.c47fad06.chunk.js.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.f2c7f62b2544dac2cd24525e459edde8.js": "/portfolio/precache-manifest.f2c7f62b2544dac2cd24525e459edde8.js",
+  "precache-manifest.f14d44154706edb60366995271ca9328.js": "/portfolio/precache-manifest.f14d44154706edb60366995271ca9328.js",
   "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/main.23d4606c.chunk.css.map": "/portfolio/static/css/main.23d4606c.chunk.css.map",
+  "static/css/main.083fc45f.chunk.css.map": "/portfolio/static/css/main.083fc45f.chunk.css.map",
   "static/media/CV_ElenaOrtegaFernandez_EN.pdf": "/portfolio/static/media/CV_ElenaOrtegaFernandez_EN.7f869362.pdf",
   "static/media/CV_ElenaOrtegaFernandez_ES.pdf": "/portfolio/static/media/CV_ElenaOrtegaFernandez_ES.fe9e5e32.pdf",
   "static/media/profile.png": "/portfolio/static/media/profile.df67fce8.png"
