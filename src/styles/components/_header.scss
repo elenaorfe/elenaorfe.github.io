@@ -15,6 +15,11 @@
   & img {
     height: 100px;
   }
+
+  & .navbar-light .navbar-toggler {
+    border-color: transparent;
+    padding: 0px;
+  }
 }
 
 @include media-breakpoint-up(sm) {
