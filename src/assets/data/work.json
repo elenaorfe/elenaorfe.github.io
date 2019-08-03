@@ -6,6 +6,18 @@
             "dateEnd": "Now",
             "projects": [
                 {
+                  "duration": "2 months",
+                  "title": "Web editor of a map application",
+                  "description": [
+                    "Implementation of a ReactJS application",
+                    "Integration with REST API",
+                    "Integration with Here Maps",
+                    "Internationalization",
+                    "Set up and deploy of the application in an Apache server"
+                  ],
+                  "skills": ["Figma", "Material UI", "ReactJS", "API Integration", "Babel", "Webpack", "Scrum", "Gitlab", "Trello", "English"]
+                },
+                {
                   "duration": "4 months",
                   "title": "Digital Signage",
                   "description": [
@@ -71,6 +83,18 @@
             "dateStart": "Enero 2019",
             "dateEnd": "Actualidad",
             "projects": [
+              {
+                "duration": "2 meses",
+                "title": "Editor de contenido de una aplicación de mapas",
+                "description": [
+                  "Implementación de una aplicación ReactJS",
+                  "Integración con REST API",
+                  "Intregración con Here Maps",
+                  "Internalización",
+                  "Configuración y despliegue de la aplicación en un servidor Apache"
+                ],
+                "skills": ["Figma", "Material UI", "ReactJS", "API Integration", "Babel", "Webpack", "Scrum", "Gitlab", "Trello", "Inglés"]
+              },
                 {
                   "duration": "4 meses",
                   "title": "Aplicación Señalización Digital",
