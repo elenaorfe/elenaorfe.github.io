@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { FormattedMessage } from 'react-intl';
 
 import Button from '../atoms/Button';
-import aboutData from '../../assets/data/about.json';
 import profile from '../../assets/profile.png';
 import CV_EN from '../../assets/CV_ElenaOrtegaFernandez_EN.pdf';
 import CV_ES from '../../assets/CV_ElenaOrtegaFernandez_ES.pdf';
@@ -20,13 +19,13 @@ class About extends Component {
                 </div>
                 <div className='text-center'>
                     <h5 className='d-inline-block'>
-                        <FormattedMessage id={aboutData[this.props.locale].name}/>
+                        <FormattedMessage id='about.name'/>
                         &nbsp;|&nbsp;
-                        <FormattedMessage id={aboutData[this.props.locale].role}/>
+                        <FormattedMessage id='about.role'/>
                     </h5>
-                    <p className='mb-0'><FormattedMessage id={aboutData[this.props.locale].description1}/></p>
-                    <p className='mb-0'><FormattedMessage id={aboutData[this.props.locale].description2}/></p>
-                    <p><FormattedMessage id={aboutData[this.props.locale].description3}/></p>
+                    <p className='mb-0'><FormattedMessage id='about.description1'/></p>
+                    <p className='mb-0'><FormattedMessage id='about.description2'/></p>
+                    <p><FormattedMessage id='about.description3'/></p>
                 </div>
                 <div className='text-center'>
                     <Button text={<FormattedMessage id='about.btn.download'/>} type='btn-primary' file={file}/>

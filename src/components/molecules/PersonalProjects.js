@@ -12,9 +12,10 @@ class PersonalProjects extends Component {
     }
 
     renderPersonalProjects() {
-        return personalProjectsData[this.props.locale].map((project,index) => {
+        const locale = this.props.locale.substring(0,2);
+        return personalProjectsData[locale]['projects'].map((project,index) => {
             return (
-                <div className={this.getClassNameCourseContainer(personalProjectsData[this.props.locale].length, index + 1)} key={`personal-project-${index}`}>
+                <div className={this.getClassNameCourseContainer(personalProjectsData[locale]['projects'].length, index + 1)} key={`personal-project-${index}`}>
                     <div className='title'>
                         <h6 className='d-inline'>{project.title} </h6> 
                         <p className='subtitle d-inline'>| {project.description}</p>

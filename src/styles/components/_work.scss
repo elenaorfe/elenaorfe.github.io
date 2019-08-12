@@ -1,10 +1,10 @@
 .company {
-    &.container {
+    &.container:not(:last-child){
         margin-bottom: 20px;
         margin-top: 0px;
-        border-bottom: 1px solid $primary-color;
+        border-bottom: 2px solid $primary-color;
     }
-
+      
     & .title {
         margin-bottom: 10px;
 

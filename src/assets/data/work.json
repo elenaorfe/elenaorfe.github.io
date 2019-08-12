@@ -1,103 +1,116 @@
 {
-    "en-EN": [
-        {
-            "name": "Gofore",
-            "dateStart": "January 2019",
-            "dateEnd": "Now",
+    "en": 
+      {
+        "work": [
+          {
+              "name": "Gofore",
+              "dateStart": "January 2019",
+              "dateEnd": "Now",
+              "projects": [
+                  {
+                    "duration": "3 months",
+                    "title": "Web editor of a map application",
+                    "location": "Finland",
+                    "description": [
+                      "Implementation of a ReactJS application",
+                      "Integration with REST API",
+                      "Integration with Here Maps",
+                      "Internationalization",
+                      "Unit testing",
+                      "Set up and deploy of the application in an Apache server"
+                    ],
+                    "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Scrum", "Gitlab", "Trello", "English"]
+                  },
+                  {
+                    "duration": "4 months",
+                    "title": "Digital Signage",
+                    "location": "Spain",
+                    "description": [
+                      "UX and UI design of a information screen for offices",
+                      "Implementation of a ReactJS application",
+                      "Integration with open data exposed in GTFS format",
+                      "Integration with social APIs likeOutlook API, Twitter API y Slack API",
+                      "Set up and deploy of the application"
+                    ],
+                    "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Scrum", "Bitbucket", "Trello", "English"]
+                  }
+              ]
+          },
+          {
+            "name": "Accenture",
+            "dateStart": "June 2015",
+            "dateEnd": "December 2018",
             "projects": [
                 {
-                  "duration": "2 months",
-                  "title": "Web editor of a map application",
+                  "duration": "11 months",
+                  "title": "Digital Transformation of an Insurance Company",
+                  "location": "Austria",
                   "description": [
-                    "Implementation of a ReactJS application",
-                    "Integration with REST API",
-                    "Integration with Here Maps",
-                    "Internationalization",
-                    "Set up and deploy of the application in an Apache server"
+                    "Multicultural project using Agile methodology",
+                    "Estimation of tasks and solutions",
+                    "Frontend lead and web development"
                   ],
-                  "skills": ["Figma", "Material UI", "ReactJS", "API Integration", "Babel", "Webpack", "Scrum", "Gitlab", "Trello", "English"]
+                  "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
                 },
                 {
-                  "duration": "4 months",
-                  "title": "Digital Signage",
+                  "duration": "10 months",
+                  "title": "Form modeller of Digital Banking",
+                  "location": "Colombia",
                   "description": [
-                    "UX and UI design of a information screen for offices",
-                    "Implementation of a ReactJS application",
-                    "Integration with open data exposed in GTFS format",
-                    "Integration with social APIs likeOutlook API, Twitter API y Slack API",
-                    "Set up and deploy of the application"
-                  ],
-                  "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Scrum", "Bitbucket", "Trello", "English"]
+                    "International Agile project",
+                    "Estimation of tasks, modeler and frontend development"
+                    ],
+                  "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
+                },
+                {
+                  "duration": "11 months",
+                  "title": "Credit card portal development",
+                  "location": "Mexico",
+                  "description": [
+                    "International Agile project for a omnichannel credit card portal creation",
+                    "Estimation of tasks and frontend development"
+                    ],
+                  "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
+                },
+                {
+                  "duration": "11 months",
+                  "title": "Different projects",
+                  "location": "Spain",
+                  "description": [
+                    "MV* architecture development",
+                    "Social Network integration inside a multichannel platform",
+                    "Backend development implementing the workflow engine Activiti in a Java application"
+                    ],
+                  "skills": ["AngularJS", "HTML", "CSS", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
                 }
             ]
-        },
-        {
-          "name": "Accenture",
-          "dateStart": "June 2015",
-          "dateEnd": "December 2018",
-          "projects": [
-              {
-                "duration": "11 months",
-                "title": "Digital Transformation of an Insurance Company",
-                "description": [
-                  "Multicultural project using Agile methodology",
-                  "Estimation of tasks and solutions",
-                  "Frontend lead and web development"
-                ],
-                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
-              },
-              {
-                "duration": "10 months",
-                "title": "Form modeller of Digital Banking",
-                "description": [
-                  "International Agile project",
-                  "Estimation of tasks, modeler and frontend development"
-                  ],
-                "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
-              },
-              {
-                "duration": "11 months",
-                "title": "Credit card portal development",
-                "description": [
-                  "International Agile project for a omnichannel credit card portal creation",
-                  "Estimation of tasks and frontend development"
-                  ],
-                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
-              },
-              {
-                "duration": "11 months",
-                "title": "Different projects",
-                "description": [
-                  "MV* architecture development",
-                  "Social Network integration inside a multichannel platform",
-                  "Backend development implementing the workflow engine Activiti in a Java application"
-                  ],
-                "skills": ["AngularJS", "HTML", "CSS", "Javascript", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
-              }
-          ]
-        }
-    ],
-    "es-ES": [
+          }
+    ]},
+    "es": 
+      {"work": [
         {
             "name": "Gofore",
             "dateStart": "Enero 2019",
             "dateEnd": "Actualidad",
             "projects": [
               {
-                "duration": "2 meses",
+                "duration": "3 meses",
                 "title": "Editor de contenido de una aplicación de mapas",
+                "location": "Finlandia",
                 "description": [
                   "Implementación de una aplicación ReactJS",
                   "Integración con REST API",
                   "Intregración con Here Maps",
                   "Internalización",
+                  "Unit testing",
                   "Configuración y despliegue de la aplicación en un servidor Apache"
                 ],
-                "skills": ["Figma", "Material UI", "ReactJS", "API Integration", "Babel", "Webpack", "Scrum", "Gitlab", "Trello", "Inglés"]
+                "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Scrum", "Gitlab", "Trello", "Inglés"]
               },
                 {
                   "duration": "4 meses",
                   "title": "Aplicación Señalización Digital",
+                  "location": "España",
                   "description": [
                     "Diseño UX y UI de una pantalla de información para oficinas",
                     "Implementación de una aplicación ReactJS",
@@ -116,17 +129,19 @@
           "projects": [
               {
                 "duration": "11 meses",
-                "title": "Transformación Digital Compañia de Seguros",
+                "title": "Transformación Digital Compañía de Seguros",
+                "location": "Austria",
                 "description": [
                   "Proyecto multicultural utilizando metodología Agile",
                   "Estimación de tareas y propuesta de arquitectura",
                   "Frontend lead y desarrollo"
                 ],
-                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
+                "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
               },
               {
                 "duration": "10 meses",
                 "title": "Modelado de Formularios para Banca Digital",
+                "location": "Colombia",
                 "description": [
                   "Proyecto Agile internacional",
                   "Estimación de tareas, modelado y desarrollo frontend"
@@ -136,24 +151,26 @@
               {
                 "duration": "11 meses",
                 "title": "Creación de un portal de tarjetas de crédito",
+                "location": "México",
                 "description": [
                   "Proyecto Agile internacional para la creación de un portal de tarjetas multicanal",
                   "Estimación de tareas y desarrollo frontend"
                   ],
-                "skills": ["AngularJS", "HTML", "Sass", "Javascript", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
+                "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
               },
               {
                 "duration": "11 meses",
                 "title": "Diversos proyectos",
+                "location": "España",
                 "description": [
                   "Desarrollo de una arquitectura MV*",
                   "Integración de redes sociales en una plataforma multicanal",
                   "Desarrollo backend implementando el motor de flujo de trabajo Activiti en una applicación Java"
                   ],
-                "skills": ["AngularJS", "HTML", "CSS", "Javascript", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
+                "skills": ["AngularJS", "HTML", "CSS", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
               }
           ]
         }
-    ]
+    ]}
 }
   

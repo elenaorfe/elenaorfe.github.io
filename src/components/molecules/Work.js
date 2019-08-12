@@ -14,7 +14,7 @@ class Work extends Component {
             return(
                 <div className={this.getClassNameProjectContainer(projectList.length, index + 1)} key={`project-${index}`}>
                     <p className='d-inline'>{project.title} </p> 
-                    <p className='subtitle d-inline'>| {project.duration}</p>
+                    <p className='subtitle d-inline float-right'>{project.location} | {project.duration}</p>
                     <List items={project.description} type='default'/>
                     <List items={project.skills} type='bullet'/>
                 </div>
@@ -23,7 +23,8 @@ class Work extends Component {
     }
 
     renderCompanyExperience() {
-        return workData[this.props.locale].map((company, index) => {
+        const locale = this.props.locale.substring(0,2);
+        return workData[locale]['work'].map((company, index) => {
             return (
                 <div className='company container pl-xs-0' key={`company-${index}`}>
                     <div className='title'>

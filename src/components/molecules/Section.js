@@ -3,8 +3,8 @@ import Card from '../atoms/Card';
 
 class Section extends Component {
     renderCard() {
-        return this.props.data.map(item => {
-            return <Card data={item} type={this.props.type}/>
+        return this.props.data.map((item, index) => {
+            return <Card data={item} type={this.props.type} key={'card-' + index}/>
         })
     }
 
