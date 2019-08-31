@@ -2,32 +2,32 @@
     "en": {
         "projects": [
             {
-                "title": "Web Page about crafts: UX/UI Design and Web development",
-                "description": "2018",
-                "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
-                "link": "https://amigurum.is"
-            },
-            {
                 "title": "Portfolio: UX/UI Design and Web development",
                 "description": "2019",
                 "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
-                "link": "/portfolio/"
+                "link": "/portfolio"
+            },
+            {
+                "title": "Web Page about crafts: UX/UI Design and Web development",
+                "description": "2018",
+                "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
+                "link": "https://bymanitas-fab96.web.app/"
             }
         ]
     },
     "es": {
         "projects": [
             {
-                "title": "Página web de manualidades: Diseño UX/UI y desarrollo web",
-                "description": "2018",
-                "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
-                "link": "https://amigurum.is"
-            },
-            {
                 "title": "Portfolio: Diseño UX/UI y desarrollo web",
                 "description": "2019",
                 "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
-                "link": "/portfolio/"
+                "link": "/portfolio"
+            },
+            {
+                "title": "Página web de manualidades: Diseño UX/UI y desarrollo web",
+                "description": "2018",
+                "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
+                "link": "https://bymanitas-fab96.web.app/"
             }
         ]
     }   

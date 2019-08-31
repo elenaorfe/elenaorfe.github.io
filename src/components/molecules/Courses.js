@@ -17,7 +17,7 @@ class Courses extends Component {
                 <div className={this.getClassNameCourseContainer(coursesData[locale]['courses'].length, index + 1)} key={`course-${index}`}>
                     <div className='title'>
                         <h6 className='d-inline'>{course.title} </h6> 
-                        <p className='subtitle d-inline'> - {course.description} | {course.date}</p>
+                        <p className='subtitle d-inline float-right'>{course.description} | {course.date}</p>
                         <List items={course.skills} type='bullet'/>
                     </div>
                 </div>
