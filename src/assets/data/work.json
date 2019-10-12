@@ -8,6 +8,15 @@
               "dateEnd": "Now",
               "projects": [
                   {
+                    "duration": "September 2019 - Now",
+                    "title": "Platform of a measurement equipment manufacturer",
+                    "location": "Finland",
+                    "description": [
+                      "Migration of an AngularJS project into Angular"
+                    ],
+                    "skills": ["AngularJS", "Angular", "Typescript", "Scrum", "Gitlab", "Confluence", "Jira", "English"]
+                  },
+                  {
                     "duration": "3 months",
                     "title": "Web editor of a map application",
                     "location": "Finland",
@@ -93,6 +102,15 @@
             "dateStart": "Enero 2019",
             "dateEnd": "Actualidad",
             "projects": [
+              {
+                "duration": "Septiembre 2019 - Ahora",
+                "title": "Plataforma fabricante de equipos de medición",
+                "location": "Finlandia",
+                "description": [
+                  "Migración AngularJS a Angular"
+                ],
+                "skills": ["AngularJS", "Angular", "Typescript", "Scrum", "Gitlab", "Confluence", "Jira", "Inglés"]
+              },
               {
                 "duration": "3 meses",
                 "title": "Editor de contenido de una aplicación de mapas",
