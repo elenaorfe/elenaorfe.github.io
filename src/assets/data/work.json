@@ -14,7 +14,7 @@
                     "description": [
                       "Migration of an AngularJS project into Angular"
                     ],
-                    "skills": ["AngularJS", "Angular", "Typescript", "Scrum", "Gitlab", "Confluence", "Jira", "English"]
+                    "skills": ["AngularJS", "Angular", "Typescript", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
                   },
                   {
                     "duration": "3 months",
@@ -28,7 +28,7 @@
                       "Unit testing",
                       "Set up and deploy of the application in an Apache server"
                     ],
-                    "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Scrum", "Gitlab", "Trello", "English"]
+                    "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Gitlab", "Scrum", "Trello", "English"]
                   },
                   {
                     "duration": "4 months",
@@ -41,7 +41,7 @@
                       "Integration with social APIs likeOutlook API, Twitter API y Slack API",
                       "Set up and deploy of the application"
                     ],
-                    "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Scrum", "Bitbucket", "Trello", "English"]
+                    "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Bitbucket", "Scrum", "Trello", "English"]
                   }
               ]
           },
@@ -109,7 +109,7 @@
                 "description": [
                   "Migración AngularJS a Angular"
                 ],
-                "skills": ["AngularJS", "Angular", "Typescript", "Scrum", "Gitlab", "Confluence", "Jira", "Inglés"]
+                "skills": ["AngularJS", "Angular", "Typescript", "Gitlab", "Scrum", "Confluence", "Jira", "Inglés"]
               },
               {
                 "duration": "3 meses",
@@ -123,7 +123,7 @@
                   "Unit testing",
                   "Configuración y despliegue de la aplicación en un servidor Apache"
                 ],
-                "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Scrum", "Gitlab", "Trello", "Inglés"]
+                "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Gitlab", "Scrum", "Trello", "Inglés"]
               },
                 {
                   "duration": "4 meses",
@@ -136,7 +136,7 @@
                     "Integración con APIs sociales como Outlook API, Twitter API y Slack API",
                     "Configuración y despliegue de la aplicación"
                   ],
-                  "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "Integración API", "Scrum", "Bitbucket", "Trello", "Inglés"]
+                  "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "Integración API", "Bitbucket", "Scrum", "Trello", "Inglés"]
                 }
             ]
         },
