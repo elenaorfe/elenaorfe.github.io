@@ -13,8 +13,10 @@ class Work extends Component {
         return projectList.map((project,index) => {
             return(
                 <div className={this.getClassNameProjectContainer(projectList.length, index + 1)} key={`project-${index}`}>
-                    <p className='d-inline'>{project.title} </p> 
-                    <p className='subtitle d-inline float-right'>{project.location} | {project.duration}</p>
+                    <div className="row">
+                        <div className="col col-xs-12 col-ms-8"><p className='d-inline'>{project.title}</p></div>
+                        <div className="col col-xs-12 col-ms-4"><p className='subtitle d-inline float-right'>{project.location} | {project.duration}</p></div>
+                    </div>
                     <List items={project.description} type='default'/>
                     <List items={project.skills} type='bullet'/>
                 </div>

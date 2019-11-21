@@ -16,10 +16,16 @@ class Courses extends Component {
             return (
                 <div className={this.getClassNameCourseContainer(coursesData[locale]['courses'].length, index + 1)} key={`course-${index}`}>
                     <div className='title'>
-                        <h6 className='d-inline'>{course.title} </h6> 
-                        <p className='subtitle d-inline float-right'>{course.description} | {course.date}</p>
-                        <List items={course.skills} type='bullet'/>
+                        <div className='row'>
+                            <div className='col col-xs-12 col-ms-8 pr-0'>
+                                <h6 className='d-inline'>{course.title}</h6>
+                            </div>
+                            <div className='col col-xs-12 col-ms-4 pr-0'>
+                                <p className='subtitle d-inline float-right'>{course.description} | {course.date}</p>
+                            </div>
+                        </div>
                     </div>
+                    <List items={course.skills} type='bullet'/>
                 </div>
             );
         });

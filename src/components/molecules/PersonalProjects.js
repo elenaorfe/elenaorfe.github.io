@@ -8,7 +8,7 @@ import Link from '../atoms/Link.js';
 class PersonalProjects extends Component {
     getClassNameCourseContainer(length, index) {
         // Add 'separator' class if it's not the latest element
-        return (length > index) ? 'personal-project container separator ml-xs-0' : 'personal-project container ml-xs-0';
+        return (length > index) ? 'personal-project container separator pl-xs-0' : 'personal-project container pl-xs-0';
     }
 
     renderPersonalProjects() {
@@ -17,9 +17,15 @@ class PersonalProjects extends Component {
             return (
                 <div className={this.getClassNameCourseContainer(personalProjectsData[locale]['projects'].length, index + 1)} key={`personal-project-${index}`}>
                     <div className='title'>
-                        <h6 className='d-inline'>{project.title} </h6> 
-                        {project.link ? <Link link={project.link} type='fas fa-external-link-square-alt external'/> : ''}
-                        <p className='subtitle d-inline float-right'>{project.description}</p>
+                        <div className='row'>
+                            <div className='col col-xs-12 col-ms-8 pr-0'>
+                                <h6 className='d-inline'>{project.title} </h6>
+                                {project.link ? <Link link={project.link} type='fas fa-external-link-square-alt external'/> : ''}
+                            </div>
+                            <div className='col col-xs-12 col-ms-4 pr-0'>
+                                <p className='subtitle d-inline float-right'>{project.description}</p>
+                            </div>
+                        </div>
                     </div>
                     <List items={project.skills} type='bullet'/>
                 </div>
