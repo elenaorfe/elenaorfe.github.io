@@ -12,9 +12,9 @@
                     "title": "Platform of a measurement equipment manufacturer",
                     "location": "Finland",
                     "description": [
-                      "Migration of an AngularJS project into Angular"
+                      "Migration of an IoT web application developed using AngularJS into Angular 8"
                     ],
-                    "skills": ["AngularJS", "Angular", "Typescript", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
+                    "skills": ["AngularJS", "Angular", "Typescript", "Scss", "Bootstrap", "Leaflet maps", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
                   },
                   {
                     "duration": "3 months",
@@ -107,9 +107,9 @@
                 "title": "Plataforma fabricante de equipos de medición",
                 "location": "Finlandia",
                 "description": [
-                  "Migración AngularJS a Angular"
+                  "Migración aplicación web de IoT desarrollada en AngularJS a Angular 8"
                 ],
-                "skills": ["AngularJS", "Angular", "Typescript", "Gitlab", "Scrum", "Confluence", "Jira", "Inglés"]
+                "skills": ["AngularJS", "Angular", "Typescript", "Scss", "Bootstrap", "Leaflet maps", "Gitlab", "Scrum", "Confluence", "Jira", "Inglés"]
               },
               {
                 "duration": "3 meses",

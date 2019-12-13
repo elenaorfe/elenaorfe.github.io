@@ -3,10 +3,10 @@
         {
             "courses" : [
             {
-                "title": "iOS 12 & Swift",
-                "description": "Udemy Online Course",
-                "skills": ["Xcode 10", "Swift 4.2"],
-                "date": "Now"
+                "title": "Wordpress Development",
+                "description": "Udemy Curso Online",
+                "skills": ["Wordpress", "PHP", "CSS"],
+                "date": "Actualidad"
             },
             {
                 "title": "From the idea to the product",
@@ -68,9 +68,9 @@
         {
             "courses" :[
                 {
-                    "title": "iOS 12 & Swift",
+                    "title": "Wordpress Development",
                     "description": "Udemy Curso Online",
-                    "skills": ["Xcode 10", "Swift 4.2"],
+                    "skills": ["Wordpress", "PHP", "CSS"],
                     "date": "Actualidad"
                 },
                 {
