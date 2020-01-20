@@ -2,6 +2,12 @@
     "en": {
         "projects": [
             {
+                "title": "Web Page: UX/UI Design and Wordpress development",
+                "description": "2020",
+                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
+                "link": "https://www.gs125.com"
+            },
+            {
                 "title": "Portfolio: UX/UI Design and Web development",
                 "description": "2019",
                 "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
@@ -17,6 +23,12 @@
     },
     "es": {
         "projects": [
+            {
+                "title": "Página web: Diseño UX/UI y desarrollo Wordpress",
+                "description": "2020",
+                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
+                "link": "https://www.gs125.com"
+            },
             {
                 "title": "Portfolio: Diseño UX/UI y desarrollo web",
                 "description": "2019",
