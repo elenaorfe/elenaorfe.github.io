@@ -5014,7 +5014,8 @@ li.list-inline-item:last-child:after {
     color: #000; }
 
 header {
-  margin: 0 -35px 15px;
+  width: 100%;
+  margin-bottom: 15px;
   padding: 20px 10px;
   font-weight: 300; }
   header h1 {
