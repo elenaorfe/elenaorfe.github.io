@@ -69,6 +69,7 @@ li.list-vertical-item:before {
 
 li.list-inline-item:first-child:before {
   content: '🖥';
+  margin-right: 5px;
 }
 
 li.list-inline-item:after {
