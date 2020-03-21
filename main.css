@@ -4961,7 +4961,8 @@ li.list-vertical-item:before {
   padding-right: 5px; }
 
 li.list-inline-item:first-child:before {
-  content: '🖥'; }
+  content: '🖥';
+  margin-right: 5px; }
 
 li.list-inline-item:after {
   content: '·';
