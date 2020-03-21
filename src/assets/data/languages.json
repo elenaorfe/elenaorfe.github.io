@@ -1,0 +1,37 @@
+{
+    "en": 
+        {
+            "languages" : [
+                {
+                    "name": "Spanish",
+                    "level": "Mother tongue"
+                },
+                {
+                    "name": "English",
+                    "level": "Advanced"
+                },
+                {
+                    "name": "German",
+                    "level": "Basic"
+                }
+        ]
+    },
+    "es": 
+        {
+            "languages" :[
+                {
+                    "name": "Español",
+                    "level": "Lengua materna"
+                },
+                {
+                    "name": "Inglés",
+                    "level": "Avanzado"
+                },
+                {
+                    "name": "Alemán",
+                    "level": "Básico"
+                }
+            ]
+        }
+  }
+  

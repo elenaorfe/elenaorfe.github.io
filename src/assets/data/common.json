@@ -1,0 +1,20 @@
+{
+    "en": {
+      "section.employment.title": "Work Experience",
+      "section.personal_projects.title": "Personal Projects",
+      "section.courses.title": "Courses",
+      "section.education.title": "Education",
+      "section.languages.title": "Languages",
+      "section.about.title": "About me",
+      "section.contact.title": "Contact"
+    },
+    "es": {
+      "section.employment.title": "Experiencia Laboral",
+      "section.personal_projects.title": "Proyectos Personales",
+      "section.cursos.title": "Cursos",
+      "section.education.title": "Educación",
+      "section.languages.title": "Idiomas",
+      "section.about.title": "Sobre mi",
+      "section.contact.title": "Contacto"
+    }
+  }

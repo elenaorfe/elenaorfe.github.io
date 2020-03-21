@@ -1,16 +1,17 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
-import './styles/_styles.scss';
-import * as appConstants from './assets/Constants';
-import About from './components/molecules/About';
-import Contact from './components/molecules/Contact';
-import Cookies from './components/pages/Cookies';
-import Header from './components/molecules/Header';
-import Section from './components/molecules/Section';
-import Work from './components/molecules/Work';
-import CookiesBanner from './components/molecules/CookiesBanner';
-import Courses from './components/molecules/Courses';
-import PersonalProjects from './components/molecules/PersonalProjects';
+import "./assets/styles/styles.scss";
+import * as appConstants from "./assets/Constants";
+import Cookies from "./app/Cookies";
+import Header from "./app/Header";
+import Employment from "./app/Employment";
+import PersonalProjects from "./app/PersonalProjects";
+import Courses from "./app/Courses";
+import Education from "./app/Education";
+import Language from "./app/Language";
+import About from "./app/About";
+import Contact from "./app/Contact";
+import CookiesBanner from "./app/CookiesBanner";
 
 class App extends Component {
   render() {
@@ -23,27 +24,43 @@ class App extends Component {
       );
     }
 
-    const workData = [
-      <Work locale={this.props.locale} />,
-      <Courses locale={this.props.locale} />,
-      <PersonalProjects locale={this.props.locale} />
-    ];
-
-    const aboutData = [
-      <About locale={this.props.locale} />
-    ];
-
-    const contactData = [
-      <Contact locale={this.props.locale} />
-    ];
-
     // Render application
     return (
-      <div className="App">
-        <Header />
-        <Section type='primary' data={workData}></Section>
-        <Section type='secondary' data={aboutData}></Section>
-        <Section type='primary' data={contactData}></Section>
+      <div className="section-page">
+        <Header locale={this.props.locale}/>
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-12">
+              <Employment locale={this.props.locale}/>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-12 col-sm-6">
+              <PersonalProjects locale={this.props.locale} />
+            </div>
+            <div className="col-12 col-sm-6">
+              <Courses locale={this.props.locale} />
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-12 col-sm-6">
+              <Education locale={this.props.locale} />
+            </div>
+            <div className="col-12 col-sm-6">
+              <Language locale={this.props.locale} />
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-12">
+              <About locale={this.props.locale}/>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-12">
+              <Contact locale={this.props.locale}/>
+            </div>
+          </div>
+        </div>
         <CookiesBanner />
       </div>
     );

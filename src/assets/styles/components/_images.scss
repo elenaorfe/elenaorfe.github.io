@@ -1,0 +1,12 @@
+.avatar {
+    width: 50%;
+    border-radius: 50%;
+}
+
+/* Smartphones (portrait and landscape) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .avatar {
+        width: 25%;
+        height: 25%;
+    }
+}

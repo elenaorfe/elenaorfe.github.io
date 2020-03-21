@@ -1,1 +1,1 @@
-export const CookiesParam = '#cookies';
+export const CookiesParam = "#cookies";

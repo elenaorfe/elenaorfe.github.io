@@ -2,20 +2,23 @@
     "en": {
         "projects": [
             {
-                "title": "Web Page: UX/UI Design and Wordpress development",
-                "description": "2020",
+                "title": "Web - Scout Association",
+                "date": "2020",
+                "tasks": ["UX/UI Design", "Wordpress setup", "Wordpress theme development", "Deploy of the application in the server"],
                 "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
                 "link": "https://www.gs125.com"
             },
             {
-                "title": "Portfolio: UX/UI Design and Web development",
-                "description": "2019",
+                "title": "Web - Portfolio",
+                "date": "2019",
+                "tasks": ["UX/UI Design", "Web development"],
                 "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
                 "link": "/portfolio"
             },
             {
-                "title": "Web Page about crafts: UX/UI Design and Web development",
-                "description": "2018",
+                "title": "Web - Handcrafts",
+                "date": "2018",
+                "tasks": ["UX/UI Design", "Web development"],
                 "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
                 "link": "https://bymanitas-fab96.web.app/"
             }
@@ -24,20 +27,23 @@
     "es": {
         "projects": [
             {
-                "title": "Página web: Diseño UX/UI y desarrollo Wordpress",
-                "description": "2020",
+                "title": "Web - Asociación Scout",
+                "date": "2020",
+                "tasks": ["Diseño UX/UI", "Configuración Wordpress", "Desarrollo tema Wordpress", "Despliegue de la aplicación en el servidor"],
                 "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
                 "link": "https://www.gs125.com"
             },
             {
-                "title": "Portfolio: Diseño UX/UI y desarrollo web",
-                "description": "2019",
+                "title": "Web - Portfolio",
+                "date": "2019",
+                "tasks": ["Diseño UX/UI", "Desarrollo Web"],
                 "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
                 "link": "/portfolio"
             },
             {
-                "title": "Página web de manualidades: Diseño UX/UI y desarrollo web",
-                "description": "2018",
+                "title": "Web - Manualidades",
+                "date": "2018",
+                "tasks": ["Diseño UX/UI", "Desarrollo Web"],
                 "skills": ["Invision", "ReactJS", "Firebase", "Zapier"],
                 "link": "https://bymanitas-fab96.web.app/"
             }

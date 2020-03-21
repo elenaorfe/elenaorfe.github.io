@@ -1,0 +1,87 @@
+// Fonts
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+// Colors
+.bg-primary-light {
+  background-color: $primary-color-light;
+}
+
+.fc-primary, 
+a {
+    color: $primary-color;
+}
+
+.fc-secondary {
+  color: $secondary-color;
+}
+
+// Sections
+.section-page {
+  margin-bottom: 100px;
+}
+
+.section-category {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.section-title {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+// Buttons 
+a.btn.btn-primary,
+a.btn.btn-primary:visited {
+  color: $white-color;
+  background-color: $primary-color;
+  border-color: $primary-color;
+}
+
+// Lists
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li.list-vertical-item:before {
+  content: '-';
+  padding-right: 5px;
+}
+
+li.list-inline-item:first-child:before {
+  content: '🖥';
+}
+
+li.list-inline-item:after {
+  content: '·';
+  margin-left: 5px;
+}
+
+li.list-inline-item:last-child:after{
+  content: '';
+}
+
+// Borders
+.border-bottom--secondary {
+  border-bottom: 1px solid $secondary-color-light;
+  margin-bottom: 10px;
+}

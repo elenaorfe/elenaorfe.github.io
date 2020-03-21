@@ -1,16 +1,17 @@
 {
     "en": 
       {
-        "work": [
+        "employment": [
           {
-              "name": "Gofore",
+              "name": "Software Developer at Gofore",
+              "description": "International projects for clients of different sectors with the aim of help them in their digital transformation.",
               "dateStart": "January 2019",
               "dateEnd": "Now",
               "projects": [
                   {
                     "duration": "September 2019 - Now",
                     "title": "Platform of a measurement equipment manufacturer",
-                    "location": "Finland",
+                    "location": "Finland + Remote work",
                     "description": [
                       "Analysis, estimation and development of an IoT web application developed using AngularJS into Angular 8",
                       "Estimation and development of new functionalities"
@@ -18,9 +19,9 @@
                     "skills": ["AngularJS", "Angular", "Typescript", "Scss", "Bootstrap", "Leaflet maps", "Webpack", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
                   },
                   {
-                    "duration": "3 months",
+                    "duration": "June 2019 - August 2019",
                     "title": "Web editor of a map application",
-                    "location": "Finland",
+                    "location": "Finland + Remote work",
                     "description": [
                       "Implementation of a ReactJS application",
                       "Integration with REST API",
@@ -32,7 +33,7 @@
                     "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Gitlab", "Scrum", "Trello", "English"]
                   },
                   {
-                    "duration": "4 months",
+                    "duration": "January 2019 - May 2019",
                     "title": "Digital Signage",
                     "location": "Spain",
                     "description": [
@@ -47,12 +48,13 @@
               ]
           },
           {
-            "name": "Accenture",
+            "name": "Consultant at Accenture Banking Technology",
+            "description": "Accenture Global Banking Consultant. Project development for different international banks according to their requirements.",
             "dateStart": "June 2015",
             "dateEnd": "December 2018",
             "projects": [
                 {
-                  "duration": "11 months",
+                  "duration": "February 2018 - December 2018",
                   "title": "Digital Transformation of an Insurance Company",
                   "location": "Austria",
                   "description": [
@@ -63,9 +65,9 @@
                   "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
                 },
                 {
-                  "duration": "10 months",
+                  "duration": "May 2017 - January 2018",
                   "title": "Form modeller of Digital Banking",
-                  "location": "Colombia",
+                  "location": "Colombia + Remote work",
                   "description": [
                     "International Agile project",
                     "Estimation of tasks, modeler and frontend development"
@@ -73,7 +75,7 @@
                   "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
                 },
                 {
-                  "duration": "11 months",
+                  "duration": "May 2016 - April 2017",
                   "title": "Credit card portal development",
                   "location": "Mexico",
                   "description": [
@@ -83,7 +85,7 @@
                   "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
                 },
                 {
-                  "duration": "11 months",
+                  "duration": "June 2015 - April 2016",
                   "title": "Different projects",
                   "location": "Spain",
                   "description": [
@@ -97,16 +99,18 @@
           }
     ]},
     "es": 
-      {"work": [
+      {
+        "employment": [
         {
-            "name": "Gofore",
+            "name": "Desarrolladora Frontend en Gofore",
+            "description": "Realización de proyectos internacionales para clientes de diferentes sectores con el objetivo de ayudar en su transformación digital.",
             "dateStart": "Enero 2019",
             "dateEnd": "Actualidad",
             "projects": [
               {
                 "duration": "Septiembre 2019 - Ahora",
                 "title": "Plataforma fabricante de equipos de medición",
-                "location": "Finlandia",
+                "location": "Finlandia + Trabajo Remoto",
                 "description": [
                   "Análisis, estimación y desarrollo de la migración de una aplicación web de IoT desarrollada en AngularJS a Angular 8",
                   "Estimación y desarrollo de nuevas funcionalidades"
@@ -114,9 +118,9 @@
                 "skills": ["AngularJS", "Angular", "Typescript", "Scss", "Bootstrap", "Leaflet maps", "Webpack", "Gitlab", "Scrum", "Confluence", "Jira", "Inglés"]
               },
               {
-                "duration": "3 meses",
+                "duration": "Junio 2019 - Agosto 2019",
                 "title": "Editor de contenido de una aplicación de mapas",
-                "location": "Finlandia",
+                "location": "Finlandia + Trabajo Remoto",
                 "description": [
                   "Implementación de una aplicación ReactJS",
                   "Integración con REST API",
@@ -128,7 +132,7 @@
                 "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Gitlab", "Scrum", "Trello", "Inglés"]
               },
                 {
-                  "duration": "4 meses",
+                  "duration": "Enero 2019 - Mayo 2019",
                   "title": "Aplicación Señalización Digital",
                   "location": "España",
                   "description": [
@@ -143,12 +147,13 @@
             ]
         },
         {
-          "name": "Accenture",
+          "name": "TODO Accenture",
+          "description": "TODO",
           "dateStart": "Junio 2015",
           "dateEnd": "Diciembre 2018",
           "projects": [
               {
-                "duration": "11 meses",
+                "duration": "Febrero 2018 - Diciembre 2018",
                 "title": "Transformación Digital Compañía de Seguros",
                 "location": "Austria",
                 "description": [
@@ -159,9 +164,9 @@
                 "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
               },
               {
-                "duration": "10 meses",
+                "duration": "Mayo 2017 - Enero 2018",
                 "title": "Modelado de Formularios para Banca Digital",
-                "location": "Colombia",
+                "location": "Colombia + Trabajo Remoto",
                 "description": [
                   "Proyecto Agile internacional",
                   "Estimación de tareas, modelado y desarrollo frontend"
@@ -169,7 +174,7 @@
                 "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
               },
               {
-                "duration": "11 meses",
+                "duration": "Mayo 2016 - Abril 2017",
                 "title": "Creación de un portal de tarjetas de crédito",
                 "location": "México",
                 "description": [
@@ -179,7 +184,7 @@
                 "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "Inglés"]
               },
               {
-                "duration": "11 meses",
+                "duration": "Junio 2015 - Abril 2016",
                 "title": "Diversos proyectos",
                 "location": "España",
                 "description": [

@@ -1,0 +1,12 @@
+/* Tablets and Desktop */
+@media (min-width: 768px) {
+    .section-contact {
+        .row div {
+            border-right: 1px solid $primary-color;
+        }
+    
+        .row div:last-child {
+            border-right: none;
+        }
+    }
+}

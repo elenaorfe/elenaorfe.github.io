@@ -1,17 +1,19 @@
 {
     "en": {
+      "about.title": "About me",
       "about.name": "Elena Ortega Fernández",
       "about.role": "Frontend Developer",
-      "about.description1": "I'm a frontend developer based on Spain.",
-      "about.description2": "With more than 4 years of experience in web development, I like to learn every day and be updated with new technologies.", 
-      "about.description3": "I try to keep myself updated with the latest frontend frameworks, applying best practices and trying to be multidisciplinar with UX/UI design and mobile development."
+      "about.description1": "With more than 4 years of experience in web development, I like to learn every day and be updated with new technologies.", 
+      "about.description2": "I try to keep myself updated with the latest frontend frameworks, applying best practices and trying to be multidisciplinar with UX/UI design and mobile development.",
+      "about.btn.download": "Download CV"
     },
     "es": {
+      "about.title": "Sobre mi",
       "about.name": "Elena Ortega Fernández",
       "about.role": "Frontend Developer",
-      "about.description1": "Soy una desarrolladora frontend ubicada en España.",
-      "about.description2": "Con más de 4 años de experiencia en desarrollo web, me gusta aprender y estar al día con las últimas tecnologías.", 
-      "about.description3": "Intento mantenerme actualizada con los últimos frameworks, aplicar buenas prácticas en mi trabajo e intento ser multidisciplinar complementando mi experiencia con diseño UX/UI y desarrollo de aplicaciones móviles."
+      "about.description1": "Con más de 4 años de experiencia en desarrollo web, me gusta aprender y estar al día con las últimas tecnologías.", 
+      "about.description2": "Intento mantenerme actualizada con los últimos frameworks, aplicar buenas prácticas en mi trabajo e intento ser multidisciplinar complementando mi experiencia con diseño UX/UI y desarrollo de aplicaciones móviles.",
+      "about.btn.download": "Descargar CV"
     }
 }
   
