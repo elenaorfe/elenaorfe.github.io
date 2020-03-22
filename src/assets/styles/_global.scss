@@ -56,9 +56,22 @@ a.btn.btn-primary:visited {
 }
 
 // Links
+a {
+  text-decoration: none;
+}
+
 a:hover {
   color: $secondary-color;
   text-decoration: none;
+}
+
+.separator-vertical a:after {
+  margin: 20px;
+  content: '|'
+}
+
+.separator-vertical a:last-child:after{
+  content: '';
 }
 
 // Lists
@@ -97,5 +110,9 @@ li.list-inline-item:last-child:after{
 @media print {    
   .container-fluid {
     padding: 0px;
+  }
+  
+  a {
+    text-decoration: none !important;
   }
 }
