@@ -55,6 +55,12 @@ a.btn.btn-primary:visited {
   border-color: $primary-color;
 }
 
+// Links
+a:hover {
+  color: $secondary-color;
+  text-decoration: none;
+}
+
 // Lists
 ul {
   list-style: none;
@@ -85,4 +91,11 @@ li.list-inline-item:last-child:after{
 .border-bottom--secondary {
   border-bottom: 1px solid $secondary-color-light;
   margin-bottom: 10px;
+}
+
+// Print
+@media print {    
+  .container-fluid {
+    padding: 0px;
+  }
 }

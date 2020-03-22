@@ -11,7 +11,7 @@ class About extends Component {
         let file = this.props.locale === "es-ES" ? CV_ES : CV_EN;
 
         return (
-            <div className="mb-4">
+            <div className="mb-4 d-print-none">
                 <h3 className="bg-primary-light section-category fc-primary p-2"><FormattedMessage id="section.about.title"/></h3>
                 <div className="row">
                     <div className="col-12 col-sm-2 my-auto text-center">

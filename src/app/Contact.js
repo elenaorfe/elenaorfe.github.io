@@ -5,7 +5,7 @@ class Contact extends Component {
 
     render() {
         return (
-            <div className="section-contact mb-4">
+            <div className="section-contact mb-4 d-print-none">
                 <h3 className="bg-primary-light section-category fc-primary p-2"><FormattedMessage id="section.contact.title"/></h3>
 
                 <div className="row">

@@ -29,7 +29,7 @@ class CookiesBanner extends Component {
     renderCookieBanner() {
         if(!this.state.hideBanner){
             return (
-                <div className="cookiesbanner">
+                <div className="cookiesbanner d-print-none">
                     <div className="inner">
                         <span className="pull-right"><button onClick={this.hideCookiesBanner}>x</button></span>
                         <FormattedMessage id="cookiesbanner.text"/>
