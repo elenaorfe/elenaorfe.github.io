@@ -1,0 +1,30 @@
+{
+    "en": {
+        "title": {
+            "mobile": "+34 646700259",
+            "email": "elenaorfe@gmail.com",
+            "linkedin": "Linkedin",
+            "github": "Github"
+        },
+        "link": {
+            "mobile": "+34646700259",
+            "email": "elenaorfe@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/elenaorfe",
+            "github": "https://github.com/elenaorfe"
+        }
+    },
+    "es": {
+        "title": {
+            "mobile": "+34 646700259",
+            "email": "elenaorfe@gmail.com",
+            "linkedin": "Linkedin",
+            "github": "Github"
+        },
+        "link": {
+            "mobile": "+34646700259",
+            "email": "elenaorfe@gmail.com",
+            "linkedin": "https://www.linkedin.com/in/elenaorfe",
+            "github": "https://github.com/elenaorfe"
+        }
+    }
+}

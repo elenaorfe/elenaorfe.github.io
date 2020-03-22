@@ -12,12 +12,13 @@ import coursesData from "./assets/data/courses.json";
 import educationData from "./assets/data/education.json";
 import languagesData from "./assets/data/languages.json";
 import cookiesData from "./assets/data/cookies.json";
+import contactData from "./assets/data/contact.json";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
 // Join translations
 for (let key in localeData) {
-    Object.assign(localeData[key], aboutData[key], employmentData[key], personalProjectsData[key], coursesData[key], educationData[key], languagesData[key], cookiesData[key]);
+    Object.assign(localeData[key], aboutData[key], employmentData[key], personalProjectsData[key], coursesData[key], educationData[key], languagesData[key], cookiesData[key], contactData[key]);
 }
 
 addLocaleData([...en, ...es]);
