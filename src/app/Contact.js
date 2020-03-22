@@ -10,10 +10,10 @@ class Contact extends Component {
 
                 <div className="row">
                     <div className="col-6 col-sm-3 col-md-2 offset-md-2 text-center">
-                        <a href="tel:+34646700259">+34 646700259</a>
+                        <a href="tel:+34646700259" target="_blank">+34 646700259</a>
                     </div>
                     <div className="col-6 col-sm-3 col-md-2 text-center">
-                        <a href="mailto:elenaorfe@gmail.com">elenaorfe@gmail.com</a>
+                        <a href="mailto:elenaorfe@gmail.com" target="_blank">elenaorfe@gmail.com</a>
                     </div>
                     <div className="col-6 col-sm-3 col-md-2 text-center">
                         <a href="https://www.linkedin.com/in/elenaorfe" target="_blank">Linkedin</a>

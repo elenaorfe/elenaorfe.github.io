@@ -13,7 +13,7 @@ class PersonalProjects extends Component {
                     <div className="section-title row">
                         <div className="col-10">
                             <span className="fc-primary mr-2">{item.title}</span> 
-                            <a href="www.gs125.com" target="_blank">🔗</a>
+                            <a href={item.link} target="_blank">🔗</a>
                         </div>
                         <div className="col-2 text-right fc-secondary"><span>{item.date}</span></div>
                     </div>
