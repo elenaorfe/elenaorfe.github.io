@@ -25,6 +25,8 @@ class About extends Component {
                         </h5>
                         <p className="mb-0"><FormattedMessage id="about.description1"/></p>
                         <p><FormattedMessage id="about.description2"/></p>
+                        <p><FormattedMessage id="about.description3"/></p>
+                        <p><FormattedMessage id="about.description4"/></p>
                     </div>
                 </div>
                 <div className="row">

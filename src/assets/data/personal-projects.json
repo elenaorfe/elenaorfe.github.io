@@ -4,7 +4,7 @@
             {
                 "title": "Web - Scout Association",
                 "date": "2020",
-                "tasks": ["UX/UI Design", "Wordpress setup", "Wordpress theme development", "Deploy of the application in the server"],
+                "tasks": ["UX/UI Design", "Wordpress setup", "Wordpress theme development", "Server deployment"],
                 "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
                 "link": "https://www.gs125.com"
             },

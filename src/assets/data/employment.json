@@ -10,46 +10,49 @@
               "projects": [
                   {
                     "duration": "September 2019 - Now",
-                    "title": "Platform of a measurement equipment manufacturer",
+                    "title": "Migration (AngularJS - Angular) of a measurement equipment manufacturer platform",
                     "location": "Finland + Remote work",
-                    "description": [
-                      "Analysis, estimation and development of an IoT web application developed using AngularJS into Angular 8",
-                      "Estimation and development of new functionalities"
+                    "description": "Leading measurement equipment manufacturer located in Finland provides a cloud based measurement data monitoring system, which allows customers to remotely monitor measurement and alarm information on sites. An update of technologies was required to improve performance and maintainability.",
+                    "tasks": [
+                      "Analysis, definition and implementation of the strategy to migrate an existing application from AngularJS to Angular 2+",
+                      "Update of the existing libraries",
+                      "Performance of code reviews for the software quality assurance",
+                      "Estimation, implementation and maintenance of new functionalities in the migrated application",
+                      "Implementation of unit tests"
                     ],
-                    "skills": ["AngularJS", "Angular", "Typescript", "Scss", "Bootstrap", "Leaflet maps", "Webpack", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
+                    "skills": ["AngularJS", "Angular", "Typescript", "HTML", "Scss", "Bootstrap",  "Responsive Design", "Leaflet maps", "i18n", "Karma", "RESTful API", "Webpack", "Gitlab", "Scrum", "Confluence", "Jira", "English"]
                   },
                   {
                     "duration": "June 2019 - August 2019",
-                    "title": "Web editor of a map application",
+                    "title": "Creation of a web editor for a map application",
                     "location": "Finland + Remote work",
-                    "description": [
-                      "Implementation of a ReactJS application",
-                      "Integration with REST API",
-                      "Integration with Here Maps",
-                      "Internationalization",
-                      "Unit testing",
-                      "Set up and deploy of the application in an Apache server"
+                    "description": "An existing application with the goal of provide urban mobility and cross-channel shopping experiences was required to develop a web based editor to allow the customers to add point of interest and contents to their locations.",
+                    "tasks": [
+                      "Design, set up and implementation of a ReactJS application",
+                      "Integration of an interative map",
+                      "Implementation of unit tests",
+                      "Implementation of functional testing"
                     ],
-                    "skills": ["Figma", "Material UI", "ReactJS", "Sass", "API Integration", "Babel", "Webpack", "Jest", "Gitlab", "Scrum", "Trello", "English"]
+                    "skills": ["Figma", "ReactJS", "HTML", "Sass", "Material UI", "Here Maps", "i18n", "RESTful API", "Babel", "Webpack", "Jest", "Selenium", "Gitlab", "Scrum", "Trello", "English"]
                   },
                   {
                     "duration": "January 2019 - May 2019",
-                    "title": "Digital Signage",
+                    "title": "Creation of a Digital Signage Platform",
                     "location": "Spain",
-                    "description": [
-                      "UX and UI design of a information screen for offices",
-                      "Implementation of a ReactJS application",
+                    "description": "Digital content displayed on offices monitors with the aim of display usefull and visually engaging experiences.",
+                    "tasks": [
+                      "Analysis of the user experience and design of the user interface for different screen scenarios",
+                      "Set up and implementation of a ReactJS application",
                       "Integration with open data exposed in GTFS format",
-                      "Integration with social APIs likeOutlook API, Twitter API y Slack API",
-                      "Set up and deploy of the application"
+                      "Integration with social media API (Outlook, Twitter and Slack)"
                     ],
-                    "skills": ["Sketch", "Marvel", "Material UI", "ReactJS", "API Integration", "Bitbucket", "Scrum", "Trello", "English"]
+                    "skills": ["Sketch", "Marvel", "ReactJS", "HTML", "Sass", "Material UI", "Bitbucket", "Scrum", "Trello", "English"]
                   }
               ]
           },
           {
             "name": "Consultant at Accenture Banking Technology",
-            "description": "Accenture Global Banking Consultant. Project development for different international banks according to their requirements.",
+            "description": "International projects for different banks with the aim of help them in their digital transformation. With my seniority and experience in different projects, I certificated myself as a trainer of the product that was integrated in the different customers.",
             "dateStart": "June 2015",
             "dateEnd": "December 2018",
             "projects": [
@@ -57,41 +60,47 @@
                   "duration": "February 2018 - December 2018",
                   "title": "Digital Transformation of an Insurance Company",
                   "location": "Austria",
-                  "description": [
-                    "Multicultural project using Agile methodology",
-                    "Estimation of tasks and solutions",
-                    "Frontend lead and web development"
+                  "description": "As part of the multicultural agile team, I lead the digital transformation of one of the largest insurance groups in its core markets of Austria and Central and Eastern Europe.",
+                  "tasks": [
+                    "Estimation, implementation and maintenance of the web application",
+                    "Performance of code reviews for the software quality assurance",
+                    "Migration of the Customer Experience Platform",
+                    "Involvement in the continues integration process"
                   ],
-                  "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "EC6", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
+                  "skills": ["AngularJS", "EC6", "HTML", "Sass", "Bootstrap", "Responsive Design", "Handlebars", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
                 },
                 {
                   "duration": "May 2017 - January 2018",
-                  "title": "Form modeller of Digital Banking",
+                  "title": "Development of a digital bank application",
                   "location": "Colombia + Remote work",
-                  "description": [
-                    "International Agile project",
-                    "Estimation of tasks, modeler and frontend development"
+                  "description": "Participation in the digital transformation of an important financial group",
+                  "tasks": [
+                    "Analysing customer requirements",
+                    "Improving form-based flows",
+                    "Estimation of tasks, modeling forms and frontend development"
                     ],
-                  "skills": ["HTML", "CSS", "Javascript", "jQuery", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
+                  "skills": ["Javascript", "jQuery", "HTML", "CSS", "Bootstrap", "Responsive Design", "RESTful API", "Scrum", "Confluence", "Jira", "Github"]
                 },
                 {
                   "duration": "May 2016 - April 2017",
-                  "title": "Credit card portal development",
+                  "title": "Development of a credit card portal",
                   "location": "Mexico",
-                  "description": [
-                    "International Agile project for a omnichannel credit card portal creation",
+                  "description": "International Agile project for a omnichannel credit card portal creation",
+                  "tasks": [
+                    "Analysing customer requirements",
                     "Estimation of tasks and frontend development"
                     ],
-                  "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "JSON", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
+                  "skills": ["AngularJS", "HTML", "Sass", "Bootstrap", "Responsive Design", "RESTful API", "Scrum", "Confluence", "Jira", "Github", "English"]
                 },
                 {
                   "duration": "June 2015 - April 2016",
-                  "title": "Different projects",
+                  "title": "Development of different projects",
                   "location": "Spain",
-                  "description": [
-                    "MV* architecture development",
-                    "Social Network integration inside a multichannel platform",
-                    "Backend development implementing the workflow engine Activiti in a Java application"
+                  "description": "Development of new features and improvements of the company products as part of the R&D department.",
+                  "tasks": [
+                    "Development of a MV* architecture",
+                    "Integration of social networks inside a multichannel platform",
+                    "Implementation of a workflow engine in a Java application"
                     ],
                   "skills": ["AngularJS", "HTML", "CSS", "Mocha", "Facebook API", "Twitter API", "Yammer API", "Java", "Oracle DB", "Activiti", "Alfresco"]
                 }
@@ -111,7 +120,8 @@
                 "duration": "Septiembre 2019 - Ahora",
                 "title": "Plataforma fabricante de equipos de medición",
                 "location": "Finlandia + Trabajo Remoto",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Análisis, estimación y desarrollo de la migración de una aplicación web de IoT desarrollada en AngularJS a Angular 8",
                   "Estimación y desarrollo de nuevas funcionalidades"
                 ],
@@ -121,7 +131,8 @@
                 "duration": "Junio 2019 - Agosto 2019",
                 "title": "Editor de contenido de una aplicación de mapas",
                 "location": "Finlandia + Trabajo Remoto",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Implementación de una aplicación ReactJS",
                   "Integración con REST API",
                   "Intregración con Here Maps",
@@ -135,7 +146,8 @@
                   "duration": "Enero 2019 - Mayo 2019",
                   "title": "Aplicación Señalización Digital",
                   "location": "España",
-                  "description": [
+                  "description": "",
+                  "tasks": [
                     "Diseño UX y UI de una pantalla de información para oficinas",
                     "Implementación de una aplicación ReactJS",
                     "Integración con datos abiertos expuestos en formato GTFS",
@@ -156,7 +168,8 @@
                 "duration": "Febrero 2018 - Diciembre 2018",
                 "title": "Transformación Digital Compañía de Seguros",
                 "location": "Austria",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Proyecto multicultural utilizando metodología Agile",
                   "Estimación de tareas y propuesta de arquitectura",
                   "Frontend lead y desarrollo"
@@ -167,7 +180,8 @@
                 "duration": "Mayo 2017 - Enero 2018",
                 "title": "Modelado de Formularios para Banca Digital",
                 "location": "Colombia + Trabajo Remoto",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Proyecto Agile internacional",
                   "Estimación de tareas, modelado y desarrollo frontend"
                 ],
@@ -177,7 +191,8 @@
                 "duration": "Mayo 2016 - Abril 2017",
                 "title": "Creación de un portal de tarjetas de crédito",
                 "location": "México",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Proyecto Agile internacional para la creación de un portal de tarjetas multicanal",
                   "Estimación de tareas y desarrollo frontend"
                   ],
@@ -187,7 +202,8 @@
                 "duration": "Junio 2015 - Abril 2016",
                 "title": "Diversos proyectos",
                 "location": "España",
-                "description": [
+                "description": "",
+                "tasks": [
                   "Desarrollo de una arquitectura MV*",
                   "Integración de redes sociales en una plataforma multicanal",
                   "Desarrollo backend implementando el motor de flujo de trabajo Activiti en una applicación Java"

@@ -20,16 +20,17 @@ class Employment extends Component {
                             <div className="border-bottom--secondary" key={`company-${companyIndex}-project-${projectIndex}`}>
                                 <div className="row">
                                     <div className="col-6">
-                                        <span>{project.title}</span>
+                                        <strong>{project.title}</strong>
                                     </div>
                                     <div className="col-6 text-right">
                                         <span className="fc-secondary">{project.location} | {project.duration}</span>
                                     </div>
                                 </div>
+                                <span>{project.description}</span>
                                 <ul className="list-vertical">
-                                    {project.description.map((description, descriptionIndex) => {
+                                    {project.tasks.map((task, taskIndex) => {
                                         return(
-                                            <li className="list-vertical-item" key={`company-${companyIndex}-project-${projectIndex}-description-${descriptionIndex}`}>{description}</li>
+                                            <li className="list-vertical-item" key={`company-${companyIndex}-project-${projectIndex}-task-${taskIndex}`}>{task}</li>
                                         );
                                     })}
                                 </ul>
