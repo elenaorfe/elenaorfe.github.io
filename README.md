@@ -1,7 +1,7 @@
 # Elena Ortega - Portfolio
 [🔗](https://elenaorfe.github.io/portfolio/) Visit my portfolio
 
-[:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf) Download my CV 
+[:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf) Download my CV </br>
 [:es:](./src/assets/files/CV_ElenaOrtegaFernandez_ES.pdf) Descarga mi CV
 
 ## Introduction
