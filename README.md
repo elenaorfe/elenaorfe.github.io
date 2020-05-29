@@ -1,6 +1,8 @@
 # Elena Ortega - Portfolio
-Visit my [porfolio](https://elenaorfe.github.io/portfolio/)<br>
-Download my CV [:es:](./src/assets/files/CV_ElenaOrtegaFernandez_ES.pdf) [:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf)
+[🔗](https://elenaorfe.github.io/portfolio/) Visit my portfolio
+
+[:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf) Download my CV 
+[:es:](./src/assets/files/CV_ElenaOrtegaFernandez_ES.pdf) Descarga mi CV
 
 ## Introduction
 🖥️ Graduate in Industrial Engineering, specialized in Electronics and Master in Internet of Things, Domotics and Smart Cities with **more than 5 years of experience in IT**, working as a Frontend Developer in international projects for clients of different sectors with the aim of **help in their digital transformation**.
