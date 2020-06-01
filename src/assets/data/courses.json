@@ -3,10 +3,16 @@
         {
             "courses" : [
             {
+                "title": "Vue and Vuex course",
+                "description": "Vue Mastery Online",
+                "skills": ["Vue", "Vuex"],
+                "date": "March 2020"
+            },
+            {
                 "title": "Wordpress Development",
                 "description": "Udemy Curso Online",
                 "skills": ["Wordpress", "PHP", "CSS"],
-                "date": "Actualidad"
+                "date": "December 2019"
             },
             {
                 "title": "From the idea to the product",
@@ -50,10 +56,16 @@
         {
             "courses" :[
                 {
+                    "title": "Vue and Vuex",
+                    "description": "Vue Mastery Online",
+                    "skills": ["Vue", "Vuex"],
+                    "date": "Marzo 2020"
+                },
+                {
                     "title": "Wordpress Development",
                     "description": "Udemy Curso Online",
                     "skills": ["Wordpress", "PHP", "CSS"],
-                    "date": "Actualidad"
+                    "date": "Diciembre 2019"
                 },
                 {
                     "title": "De la idea al producto",
@@ -65,7 +77,7 @@
                     "title": "Valida tu idea. Crea un prototipo interactivo",
                     "description": "Workshop",
                     "skills": ["Design Sprint","Figma"],
-                    "date": "April 2019"
+                    "date": "Abril 2019"
                 },
                 {
                     "title": "Angular7+",

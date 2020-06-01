@@ -4,13 +4,13 @@
         "employment": [
           {
               "name": "Software Developer at Gofore",
-              "description": "Working on international projects for clients from different sectors with the aim of help them in their digital transformation.",
+              "description": "Working on international projects for clients from different sectors with the aim of help them in their digital transformation. Participating in technical interviews for potential candidates. Analysis and documentation of european tenders",
               "dateStart": "January 2019",
               "dateEnd": "Now",
               "projects": [
                   {
                     "duration": "September 2019 - Now",
-                    "title": "Migration (AngularJS - Angular) of a measurement equipment manufacturer platform",
+                    "title": "Migration (AngularJS - Angular) of a measurement equipment manufacturer platform + development of new features",
                     "location": "Finland + Remote work",
                     "description": "Working for a leading measurement equipment manufacturer located in Finland that provides a cloud-based measurement data monitoring system, which allows customers to remotely monitor measurement and alarm information on sites. The project has the goal to update the current system technology stack to enable better performance and maintainability. I'm responsible for:",
                     "tasks": [
@@ -112,13 +112,13 @@
         "employment": [
         {
             "name": "Desarrolladora Frontend en Gofore",
-            "description": "Realización de proyectos internacionales para clientes de diferentes sectores con el objetivo de ayudar en su transformación digital.",
+            "description": "Realización de proyectos internacionales para clientes de diferentes sectores con el objetivo de ayudar en su transformación digital. Participación en entrevistas técnicas de posibles candidatos. Análisis y documentación de licitaciones europeas.",
             "dateStart": "Enero 2019",
             "dateEnd": "Actualidad",
             "projects": [
               {
                 "duration": "Septiembre 2019 - Ahora",
-                "title": "Migración (AngularJS - Angular) de una plataforma fabricante de equipos de medición",
+                "title": "Migración (AngularJS - Angular) de una plataforma fabricante de equipos de medición y desarrollo de nuevas funcionalidades",
                 "location": "Finlandia + Trabajo Remoto",
                 "description": "Trabajando para un fabricante líder de equipos de medición ubicado en Finlandia que proporciona un sistema de monitoreo de datos de medición basado en la nube, el cual permite a los clientes monitorear remotamente la medición y la información de alarmas en los sitios. El proyecto tiene el objetivo de actualizar las tecnologías del sistema para permitir un mejor rendimiento y facilidad de mantenimiento. Soy responsable de:",
                 "tasks": [
