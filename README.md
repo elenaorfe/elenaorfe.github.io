@@ -1,14 +1,19 @@
 # Elena Ortega - Portfolio
-Visit my [porfolio](https://elenaorfe.github.io/portfolio/)<br>
-Download my CV [:es:](./src/assets/files/CV_ElenaOrtegaFernandez_ES.pdf) [:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf)
+[🔗](https://elenaorfe.github.io/portfolio/) Visit my portfolio
+
+[:uk:](./src/assets/files/CV_ElenaOrtegaFernandez_EN.pdf) Download my CV </br>
+[:es:](./src/assets/files/CV_ElenaOrtegaFernandez_ES.pdf) Descarga mi CV
 
 ## Introduction
-Graduate in Industrial Engineering, specialized in Electronics and Master in Internet of Things, Domotics and Smart Cities with **more than 4 years of experience in IT**, working as a Frontend Developer in international projects for clients of different sectors with the aim of **help in their digital transformation**.<br>
-Experience working in Agile methodology within multicultural teams, working in the client side and remotely. Contributing in all the project phases: planning, design of the solution, frontend tasks development, release to production and maintenance.<br>
-Nice atmosphere, keep improving her skills and new challenges are her main motivation at work. That is complemented with running personal projects that involves different skills: Design - Frontend (ReactJS, Angular) - CMS (Wordpress, Joomla) - Third Parties Integration (Firebase) and Server Administration (FTP)<br>
-Wishing to be working with the **latest technologies**, she likes to learn every day and keep updated, applying best practices and trying to be **multidisciplinar** with UX/UI design and mobile development.
+🖥️ Graduate in Industrial Engineering, specialized in Electronics and Master in Internet of Things, Domotics and Smart Cities with **more than 5 years of experience in IT**, working as a Frontend Developer in international projects for clients of different sectors with the aim of **help in their digital transformation**.
 
-## Project's Technologies
+🌍 Experience working in Agile methodology within multicultural teams, working in the client side and remotely. Contributing in all the project phases: planning, design of the solution, frontend tasks development, release to production and maintenance.
+
+📝 Nice atmosphere, keep improving her skills and new challenges are her main motivation at work. That is complemented with running personal projects that involves different skills: Design - Frontend (ReactJS, Angular) - CMS (Wordpress, Joomla) - Third Parties Integration (Firebase) and Server Administration (FTP)
+
+👩🏼‍💻 Wishing to be working with the **latest technologies**, she likes to learn every day and keep updated, applying best practices and trying to be **multidisciplinar** with UX/UI design and mobile development.
+
+## Portfolio Project's Technologies
 * [ReactJS](https://reactjs.org/) - Javascript Framework
 * [React-intl](https://www.npmjs.com/package/react-intl) - Internationalize React apps
 * [Typescript](https://www.typescriptlang.org/) - Typed superset of JavaScript that compiles to plain JavaScript
