@@ -4,7 +4,7 @@
             "education" : [
             {
                 "title": "IoT, Domotics and Smart Cities Master",
-                "description": "Salamanca University",
+                "description": "Salamanca University (Spain)",
                 "skills": [],
                 "date": "2016 - 2017"
             },
@@ -16,7 +16,7 @@
             },
             {
                 "title": "Bachelor Degree in Industrial Engineering",
-                "description": "Malaga University",
+                "description": "Malaga University (Spain)",
                 "skills": [],
                 "date": "2010 - 2015"
             }
@@ -27,7 +27,7 @@
             "education" :[
                 {
                     "title": "Máster en IoT, Domótica y Smart Cities",
-                    "description": "Universidad de Salamanca",
+                    "description": "Universidad de Salamanca (España)",
                     "skills": [],
                     "date": "2016 - 2017"
                 },
@@ -39,7 +39,7 @@
                 },
                 {
                     "title": "Grado en Ingeniería en Tecnologías Industriales",
-                    "description": "Universidad de Málaga",
+                    "description": "Universidad de Málaga (España)",
                     "skills": [],
                     "date": "2010 - 2015"
                 }

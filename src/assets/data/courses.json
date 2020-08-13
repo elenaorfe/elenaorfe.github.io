@@ -4,13 +4,13 @@
             "courses" : [
             {
                 "title": "Vue and Vuex course",
-                "description": "Vue Mastery Online",
+                "description": "Vue Mastery Online Course",
                 "skills": ["Vue", "Vuex"],
                 "date": "March 2020"
             },
             {
                 "title": "Wordpress Development",
-                "description": "Udemy Curso Online",
+                "description": "Udemy Online Course",
                 "skills": ["Wordpress", "PHP", "CSS"],
                 "date": "December 2019"
             },

@@ -2,18 +2,25 @@
     "en": {
         "projects": [
             {
+                "title": "Web - Personal Portfolio",
+                "date": "2020",
+                "tasks": ["UX/UI Design", "Web development"],
+                "skills": ["Figma", "VueJS", "Vuetify", "Sass", "CI/CD"],
+                "link": "https://www.elenaorfe.com"
+            },
+            {
+                "title": "Web - Portfolio Restorative",
+                "date": "2020",
+                "tasks": ["UX/UI Design", "Wordpress setup", "Wordpress theme development", "Server deployment"],
+                "skills": ["PHP", "Wordpress", "Bootstrap", "Web hosting"],
+                "link": "https://www.marinariera.com"
+            },
+            {
                 "title": "Web - Scout Association",
                 "date": "2020",
                 "tasks": ["UX/UI Design", "Wordpress setup", "Wordpress theme development", "Server deployment"],
-                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
+                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "Web hosting"],
                 "link": "https://www.gs125.com"
-            },
-            {
-                "title": "Web - Portfolio",
-                "date": "2019",
-                "tasks": ["UX/UI Design", "Web development"],
-                "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
-                "link": "/portfolio"
             },
             {
                 "title": "Web - Handcrafts",
@@ -27,18 +34,25 @@
     "es": {
         "projects": [
             {
+                "title": "Web - Portfolio Personal",
+                "date": "2020",
+                "tasks": ["Diseño UX/UI", "Desarrollow web"],
+                "skills": ["Figma", "VueJS", "Vuetify", "Sass", "CI/CD"],
+                "link": "https://www.elenaorfe.com"
+            },
+            {
+                "title": "Web - Portfolio Restorative",
+                "date": "2020",
+                "tasks": ["Diseño UX/UI", "Configuración Wordpress", "Desarrollo tema Wordpress", "Despliegue de la aplicación en el servidor"],
+                "skills": ["PHP", "Wordpress", "Bootstrap", "Alojamiento web"],
+                "link": "https://www.marinariera.com"
+            },
+            {
                 "title": "Web - Asociación Scout",
                 "date": "2020",
                 "tasks": ["Diseño UX/UI", "Configuración Wordpress", "Desarrollo tema Wordpress", "Despliegue de la aplicación en el servidor"],
-                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "FTP"],
+                "skills": ["Trello", "PHP", "Wordpress", "Bootstrap", "Alojamiento web"],
                 "link": "https://www.gs125.com"
-            },
-            {
-                "title": "Web - Portfolio",
-                "date": "2019",
-                "tasks": ["Diseño UX/UI", "Desarrollo Web"],
-                "skills": ["Figma", "ReactJS", "Bootstrap", "Sass", "Github Pages", "Babel", "Webpack"],
-                "link": "/portfolio"
             },
             {
                 "title": "Web - Manualidades",
