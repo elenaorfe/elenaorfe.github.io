@@ -10,7 +10,7 @@
     "@types/react-dom": "^16.9.6",
     "bootstrap": "^4.3.1",
     "eslint-utils": "^1.4.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-intl": "^2.8.0",
